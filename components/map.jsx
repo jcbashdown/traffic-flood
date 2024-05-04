@@ -109,8 +109,13 @@ const Map = () => {
 
     return (
         <LoadScript googleMapsApiKey="">
-            <GoogleMap mapContainerStyle={mapContainerStyle} center={mapCenter} zoom={16}>
-                <TrafficLayer options={options} />
+            <GoogleMap
+                mapContainerStyle={mapContainerStyle}
+                center={mapCenter}
+                zoom={16}
+                options={{ styles: mapStyles }}
+            >
+                <TrafficLayer options={trafficOptions} />
             </GoogleMap>
         </LoadScript>
     )
