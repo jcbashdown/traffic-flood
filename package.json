@@ -6,12 +6,13 @@
     "start": "serve out"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.19.3",
     "@types/node": "^18.11.5",
-    "@types/react-dom": "^18.0.7",
     "@types/react": "^18.0.23",
+    "@types/react-dom": "^18.0.7",
     "next": "latest",
-    "react-dom": "^18.2.0",
     "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "serve": "^14.2.0",
     "typescript": "^4.8.4"
   }
