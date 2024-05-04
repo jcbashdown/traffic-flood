@@ -50,16 +50,16 @@ const Map = () => {
     const mapStyles = [
         // Custom map styles here
         // Example:
-        {
-            featureType: 'all',
-            elementType: 'all',
-            stylers: [{ saturation: -100 }, { lightness: 0 }, { visibility: 'on' }],
-        },
         //{
         //featureType: 'all',
         //elementType: 'all',
-        //stylers: [{ visibility: 'off' }], // Hide all map features
+        //stylers: [{ saturation: -100 }, { lightness: 0 }, { visibility: 'on' }],
         //},
+        {
+            featureType: 'all',
+            elementType: 'all',
+            stylers: [{ visibility: 'off' }], // Hide all map features
+        },
     ]
 
     //const trafficOptions = {
