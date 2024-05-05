@@ -31,3 +31,7 @@ pnpm create next-app --example with-static-export with-static-export-app
 # Requirements
 
 Imagemagick, potrace, hugin
+
+# TODO
+
+-   SVG is more than 10000x10000
