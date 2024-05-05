@@ -73,8 +73,8 @@ const Map = ({ centre }) => {
     //],
     //}
     const mapContainerStyle = {
-        width: '6000px',
-        height: '6000px',
+        width: '5000px',
+        height: '5000px',
     }
 
     return (
@@ -84,7 +84,7 @@ const Map = ({ centre }) => {
                     mapContainerStyle={mapContainerStyle}
                     center={centre}
                     zoom={16}
-                    options={{ styles: mapStyles }}
+                    options={{ styles: mapStyles, disableDefaultUI: true }}
                 >
                     <TrafficLayer />
                 </GoogleMap>

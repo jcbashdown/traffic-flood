@@ -1,7 +1,8 @@
 'use client'
 import Map from '../../components/map'
+import getCentralLatLongsForGridOfFour from '../../lib/get-central-lat-longs-for-grid-of-four'
 const Map2 = () => {
-    const centre = { lat: -1.240786409142414, lng: 36.87550979598019 }
+    const centre = getCentralLatLongsForGridOfFour({ lat: -1.292105389694844, lng: 36.82089822660569 })[1]
     return (
         <div>
             <Map centre={centre} />

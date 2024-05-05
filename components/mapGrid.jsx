@@ -1,12 +1,14 @@
 import { GoogleMap, LoadScript, TrafficLayer } from '@react-google-maps/api'
+import getCentralLatLongsForGridOfFour from '../lib/get-central-lat-longs-for-grid-of-four'
 
 const MapGrid = () => {
-    const mapCenters = [
-        { lat: -1.240786409142414, lng: 36.76733656834888 },
-        //{ lat: -1.240786409142414, lng: 36.87550979598019 },
-        //{ lat: -1.342304603945234, lng: 36.76733656834888 },
-        //{ lat: -1.342304603945234, lng: 36.87550979598019 },
-    ]
+    const mapCenters = getCentralLatLongsForGridOfFour({ lat: -1.292105389694844, lng: 36.82089822660569 })
+    //[
+    //{ lat: -1.240786409142414, lng: 36.76733656834888 },
+    //{ lat: -1.240786409142414, lng: 36.87550979598019 },
+    //{ lat: -1.342304603945234, lng: 36.76733656834888 },
+    //{ lat: -1.342304603945234, lng: 36.87550979598019 },
+    //]
     //const mapStyles = [
     //{
     //featureType: 'all',
@@ -78,10 +80,32 @@ const MapGrid = () => {
     //{ featureType: 'road.local', elementType: 'geometry.fill', stylers: [{ color: '#ff0000' }] },
     //],
     //}
-    const mapContainerStyle = {
-        width: '5000px',
-        height: '5000px',
-    }
+    const mapContainerStyle = [
+        {
+            width: '5000px',
+            height: '5000px',
+            right: '-9px',
+            bottom: '-9px',
+        },
+        {
+            width: '5000px',
+            height: '5000px',
+            left: '-9px',
+            bottom: '-9px',
+        },
+        {
+            width: '5000px',
+            height: '5000px',
+            right: '-9px',
+            top: '-9px',
+        },
+        {
+            width: '5000px',
+            height: '5000px',
+            left: '-9px',
+            top: '-9px',
+        },
+    ]
 
     return (
         <>
@@ -90,20 +114,12 @@ const MapGrid = () => {
                     {mapCenters.map((mapCenter, index) => (
                         <GoogleMap
                             key={index}
-                            mapContainerStyle={mapContainerStyle}
+                            mapContainerStyle={mapContainerStyle[index]}
                             center={mapCenter}
                             zoom={16}
                             options={{ styles: mapStyles, disableDefaultUI: true }}
                         >
-                            <TrafficLayer
-                                mapTypeControl={false}
-                                zoomControl={false}
-                                disableDefaultUI={true} // a way to quickly hide all controls
-                                defaultOptions={{
-                                    disableDefaultUI: true, // Disables all controls
-                                    // Additional options can be set here
-                                }}
-                            />
+                            <TrafficLayer />
                         </GoogleMap>
                     ))}
                 </div>
