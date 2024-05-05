@@ -2,14 +2,12 @@ import { useEffect, useState } from 'react'
 import { GoogleMap, LoadScript, TrafficLayer } from '@react-google-maps/api'
 
 const Map = () => {
-    const [mapCenter, setMapCenter] = useState({ lat: 0, lng: 0 })
-
-    useEffect(() => {
-        setMapCenter({
-            lat: -1.2924348955452392,
-            lng: 36.820800560383645,
-        })
-    }, [])
+    const mapCenters = [
+        { lat: -1.240786409142414, lng: 36.76733656834888 },
+        { lat: -1.240786409142414, lng: 36.87550979598019 },
+        { lat: -1.342304603945234, lng: 36.76733656834888 },
+        { lat: -1.342304603945234, lng: 36.87550979598019 },
+    ]
     //const mapStyles = [
     //{
     //featureType: 'all',
@@ -81,43 +79,36 @@ const Map = () => {
     //{ featureType: 'road.local', elementType: 'geometry.fill', stylers: [{ color: '#ff0000' }] },
     //],
     //}
-    const trafficOptions = {
-        styles: [
-            {
-                featureType: 'traffic',
-                elementType: 'geometry',
-                stylers: [
-                    { visibility: 'off' }, // Hide traffic lines for levels other than 2 and 3
-                ],
-            },
-            {
-                featureType: 'traffic',
-                elementType: 'geometry',
-                stylers: [
-                    { color: '#ff0000' }, // Bright red color for level 2 and 3 traffic
-                    { weight: 7 }, // Increase the weight for better visibility
-                    { visibility: 'on' }, // Show traffic lines for level 2 and 3
-                ],
-                conditions: ['level2', 'level3'], // Apply this style for traffic levels 2 and 3
-            },
-        ],
-    }
     const mapContainerStyle = {
-        width: '6000px',
-        height: '6000px',
+        width: '5000px',
+        height: '5000px',
     }
 
     return (
-        <LoadScript googleMapsApiKey="">
-            <GoogleMap
-                mapContainerStyle={mapContainerStyle}
-                center={mapCenter}
-                zoom={16}
-                options={{ styles: mapStyles }}
-            >
-                <TrafficLayer options={trafficOptions} />
-            </GoogleMap>
-        </LoadScript>
+        <>
+            <LoadScript googleMapsApiKey="">
+                <div className="map-grid">
+                    {mapCenters.map((mapCenter, index) => (
+                        <GoogleMap
+                            key={index}
+                            mapContainerStyle={mapContainerStyle}
+                            center={mapCenter}
+                            zoom={16}
+                            options={{ styles: mapStyles }}
+                        >
+                            <TrafficLayer />
+                        </GoogleMap>
+                    ))}
+                </div>
+            </LoadScript>
+            <style jsx>{`
+                .map-grid {
+                    display: grid;
+                    grid-template-columns: repeat(2, 1fr);
+                    grid-gap: 20px;
+                }
+            `}</style>
+        </>
     )
 }
 
