@@ -1,11 +1,11 @@
 'use client'
-import Map from '../components/map'
+import MapGrid from '../components/mapGrid'
 const Home = () => {
-  return (
-    <div>
-      <Map />
-    </div>
-  );
-};
+    return (
+        <div>
+            <MapGrid />
+        </div>
+    )
+}
 
-export default Home;
+export default Home

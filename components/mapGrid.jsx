@@ -1,6 +1,12 @@
 import { GoogleMap, LoadScript, TrafficLayer } from '@react-google-maps/api'
 
-const Map = ({ centre }) => {
+const MapGrid = () => {
+    const mapCenters = [
+        { lat: -1.240786409142414, lng: 36.76733656834888 },
+        //{ lat: -1.240786409142414, lng: 36.87550979598019 },
+        //{ lat: -1.342304603945234, lng: 36.76733656834888 },
+        //{ lat: -1.342304603945234, lng: 36.87550979598019 },
+    ]
     //const mapStyles = [
     //{
     //featureType: 'all',
@@ -73,24 +79,44 @@ const Map = ({ centre }) => {
     //],
     //}
     const mapContainerStyle = {
-        width: '6000px',
-        height: '6000px',
+        width: '5000px',
+        height: '5000px',
     }
 
     return (
         <>
             <LoadScript googleMapsApiKey="">
-                <GoogleMap
-                    mapContainerStyle={mapContainerStyle}
-                    center={centre}
-                    zoom={16}
-                    options={{ styles: mapStyles }}
-                >
-                    <TrafficLayer />
-                </GoogleMap>
+                <div className="map-grid">
+                    {mapCenters.map((mapCenter, index) => (
+                        <GoogleMap
+                            key={index}
+                            mapContainerStyle={mapContainerStyle}
+                            center={mapCenter}
+                            zoom={16}
+                            options={{ styles: mapStyles, disableDefaultUI: true }}
+                        >
+                            <TrafficLayer
+                                mapTypeControl={false}
+                                zoomControl={false}
+                                disableDefaultUI={true} // a way to quickly hide all controls
+                                defaultOptions={{
+                                    disableDefaultUI: true, // Disables all controls
+                                    // Additional options can be set here
+                                }}
+                            />
+                        </GoogleMap>
+                    ))}
+                </div>
             </LoadScript>
+            <style jsx>{`
+                .map-grid {
+                    display: grid;
+                    grid-template-columns: repeat(2, 1fr);
+                    grid-gap: 20px;
+                }
+            `}</style>
         </>
     )
 }
 
-export default Map
+export default MapGrid

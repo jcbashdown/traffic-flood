@@ -27,3 +27,7 @@ yarn create next-app --example with-static-export with-static-export-app
 ```bash
 pnpm create next-app --example with-static-export with-static-export-app
 ```
+
+# Requirements
+
+Imagemagick, potrace, hugin
