@@ -1,37 +1,25 @@
-# Next.js Static Export
-
-Next.js enables starting as a static site or Single-Page Application (SPA), then later optionally upgrading to use features that require a server.
-
-When running `next build`, Next.js generates an HTML file per route. By breaking a strict SPA into individual HTML files, Next.js can avoid loading unnecessary JavaScript code on the client-side, reducing the bundle size and enabling faster page loads.
-
-Learn more: https://nextjs.org/docs/app/building-your-application/deploying/static-exports
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-static-export)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-static-export)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-static-export with-static-export-app
-```
-
-```bash
-yarn create next-app --example with-static-export with-static-export-app
-```
-
-```bash
-pnpm create next-app --example with-static-export with-static-export-app
-```
-
 # Requirements
 
-Imagemagick, potrace, hugin
+-   Imagemagick, potrace, hugin for the smartstich (though this doesn't currently work well)
+-   Playwright, playwright dependencies - `npx playwright install-deps && npx playwright install`
+-   Node > 18.something
+-   tmux to run in the background
+-   I needed more than 1GB of RAM to run the screenshotting script
+-   I'm running with the cheapest 4GB Digital Ocean droplet. It may be possible to get away with 2GB, but I haven't tried.
+
+# Getting started
+
+-   Install the requirements
+-   Run `yarn install`
+-   Run `./background-yarn-dev.sh`
+-   Run `./loop-screenshotting.sh`
 
 # TODO
 
 -   SVG is more than 10000x10000
+-   Loop for screenshot stitching, converting to svg and worst traffic png
+-   Script for calculating number of traffic pixels per 30 mins
+-   Script to get weather data for the period
+-   Script to combine to json
+-   background map image
+-   UI (probably separate repo)
