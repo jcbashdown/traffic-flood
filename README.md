@@ -16,13 +16,14 @@
 
 # TODO
 
--   SVG is more than 10000x10000
--   Loop for screenshot stitching, converting to svg and worst traffic png
--   Script for calculating number of traffic pixels per 30 mins
 -   Script to get weather data for the period
--   Script to combine to json
+-   Script to combine with traffic to json
 -   background map image
 -   UI (probably separate repo)
+
+# TODO later
+
+-   traffic as percentage of roads - stiched but not filtered has green
 
 # Example crontab
 
