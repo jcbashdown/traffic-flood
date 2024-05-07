@@ -23,3 +23,13 @@
 -   Script to combine to json
 -   background map image
 -   UI (probably separate repo)
+
+# Example crontab
+
+```
+# Run on the half hour
+# m h  dom mon dow   command
+0,30 * * * * cd /root/traffic-flood && /root/.nvm/versions/node/v20.12.2/bin/node ./lib/capture-screenshots.js >> /root/traffic-flood/logs/capture-screenshots.log 2>&1
+#for testing
+#* * * * * cd /root/traffic-flood && /root/.nvm/versions/node/v20.12.2/bin/node ./lib/capture-screenshots.js >> /root/traffic-flood/logs/capture-screenshots.log 2>&1
+```
