@@ -35,4 +35,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 output_images/
+final_images/
 tmp_images/
+venv/

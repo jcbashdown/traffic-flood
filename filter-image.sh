@@ -20,7 +20,9 @@ svg_input_file="$output_file"
 pnm_output_file="${output_file%.*}.pnm"
 svg_output_file="${output_file%.*}.svg"
 convert $svg_input_file $pnm_output_file 
-potrace $pnm_output_file -s -o $svg_output_file --alphamax 0.1 --turdsize 100
+#potrace $pnm_output_file -r 96 -s -o $svg_output_file --alphamax 0.1 --turdsize 100
+
+potrace $pnm_output_file -r 96 -s -o $svg_output_file --alphamax 0.1 --turdsize 1 --opttolerance 0.2
 
 echo "SVG saved as $svg_output_file"
 
