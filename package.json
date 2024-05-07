@@ -6,6 +6,7 @@
     "start": "serve out"
   },
   "dependencies": {
+    "@playwright/test": "^1.43.1",
     "@react-google-maps/api": "^2.19.3",
     "@types/node": "^18.11.5",
     "@types/react": "^18.0.23",
