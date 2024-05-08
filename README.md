@@ -16,9 +16,9 @@
 
 # TODO
 
--   Script to get weather data for the period
--   Script to combine with traffic to json
--   background map image
+-   Script to combine weather with traffic with image names array to json
+    -   Test drive. Work out if precip is accumulation before. Assign less frequent to more frequent
+-   better/more faded background map image
 -   UI (probably separate repo)
 
 # TODO later
