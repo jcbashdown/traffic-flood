@@ -1,6 +1,15 @@
+
 import os
 import json
 from PIL import Image
+from datetime import datetime
+
+def convert_timestamp(custom_timestamp):
+    # Parse the timestamp string into a datetime object
+    dt = datetime.strptime(custom_timestamp, "%Y-%m-%dT%H-%M-%S.%fZ")
+
+    # Format the datetime object into the desired ISO format
+    return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 def calculate_non_color_percentage(image_file, color):
     # Open the image file
@@ -19,7 +28,7 @@ def calculate_non_color_percentage(image_file, color):
 
         # Count the frequency of the specified color
         color_frequency = pixels.count(color)
-        print(total_pixels, color_frequency)
+        # print(total_pixels, color_frequency)
 
         # Calculate the number of non-color pixels
         non_color_pixels = total_pixels - color_frequency
@@ -47,7 +56,9 @@ results = []
 # Process each PNG file
 for png_file in png_files:
     # Extract the timestamp from the PNG file name
-    timestamp = os.path.splitext(png_file)[0]
+    file_timestamp = os.path.splitext(png_file)[0]
+
+    timestamp = convert_timestamp(file_timestamp)
 
     # Calculate the percentage of non-color pixels
     png_path = os.path.join(png_directory, png_file)
