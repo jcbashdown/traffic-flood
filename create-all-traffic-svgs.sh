@@ -6,6 +6,7 @@ FINAL_DIR="final_images"
 
 # Create the svgs directory if it doesn't exist
 mkdir -p "$FINAL_DIR/svgs"
+mkdir -p "$FINAL_DIR/pngs"
 
 # Loop through each timestamped directory
 for DIR in "$BASE_DIR"/*; do
