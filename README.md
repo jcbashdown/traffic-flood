@@ -24,6 +24,13 @@
 #* * * * * cd /root/traffic-flood && /root/.nvm/versions/node/v20.12.2/bin/node ./lib/capture-screenshots.js >> /root/traffic-flood/logs/capture-screenshots.log 2>&1
 ```
 
+# Example pull from server:
+
+```
+rsync -avz --progress user@remote_host:/home/user/remote_directory /home/local_user/local_directory
+
+```
+
 # Python tests:
 
 -   setup a virtual environment
@@ -46,6 +53,7 @@
 -   create directory for json including intermediate formats
 -   remove weather api key from git history
 -   use .env for api keys
+-   use .env for location of weather and traffic images
 
 # TODO later
 

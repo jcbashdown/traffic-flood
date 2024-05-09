@@ -1,3 +1,4 @@
+import json
 # combine data in these formats
 # 1. Precipitation:
 # [
@@ -80,3 +81,19 @@ def combine_data(precipitation, traffic):
         combined_data.append({**traffic_data, "precipMM": precipMM})
 
     return combined_data
+
+def get_json_data(json_file):
+    # Read the JSON data from the file
+    with open(json_file, "r") as file:
+        data = json.load(file)    # Extract the relevant data and convert to the desired format
+    return data
+
+# Load the precipitation and traffic data
+precipitation_json = "hourly_precip_mm.json"
+traffic_json = "traffic_history_full.json"
+
+precipitation = get_json_data(precipitation_json)
+traffic = get_json_data(traffic_json)
+combined_data = combine_data(precipitation, traffic)
+
+print(json.dumps(combined_data, indent=4))
