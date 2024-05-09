@@ -64,9 +64,12 @@ for png_file in png_files:
     png_path = os.path.join(png_directory, png_file)
     percentage = calculate_non_color_percentage(png_path, excluded_color)
 
+    svg_file = f"{file_timestamp}.svg"
+
     # Create a dictionary with the timestamp and percentage
     result = {
         'timestamp': timestamp,
+        'filename': svg_file,
         'percentage': round(percentage, 4)
     }
 
