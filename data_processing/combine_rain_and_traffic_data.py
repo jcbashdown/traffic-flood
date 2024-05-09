@@ -94,6 +94,6 @@ traffic_json = "traffic_history_full.json"
 
 precipitation = get_json_data(precipitation_json)
 traffic = get_json_data(traffic_json)
-combined_data = combine_data(precipitation, traffic)
+combined_data = combine_data(precipitation=precipitation, traffic=traffic)
 
 print(json.dumps(combined_data, indent=4))
