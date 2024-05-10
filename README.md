@@ -27,7 +27,7 @@
 # Example pull from server:
 
 ```
-rsync -avz --progress user@remote_host:/home/user/remote_directory /home/local_user/local_directory
+rsync -avz --progress user@remote_host:/path/to/traffic-flood/output_images/* /path/to/traffic-flood/output_images/.
 
 ```
 

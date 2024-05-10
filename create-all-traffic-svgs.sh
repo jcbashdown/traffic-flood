@@ -13,6 +13,11 @@ for DIR in "$BASE_DIR"/*; do
     # Check if it's a directory
     if [ -d "$DIR" ]; then
         echo "Processing directory: $DIR"
+        # If there is a file in final_images/svgs with the the name DIR.svg then skip this directory
+        if [ -f "$FINAL_DIR/svgs/$(basename "$DIR").svg" ]; then
+            echo "SVG already exists for this directory, skipping"
+            continue
+        fi
         
         # Run the stitching script
         ./stitch-images.sh "$DIR"
