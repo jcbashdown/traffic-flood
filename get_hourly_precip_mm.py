@@ -33,7 +33,7 @@ def get_weather_data(start_date, end_date):
 
 # Example usage
 start_date = "2024-05-06"
-end_date = "2024-05-09"
+end_date = "2024-05-10"
 output = get_weather_data(start_date, end_date)
 # json_file = "2024-05-05--2024-05-06-weather.json"
 # output = get_weather_data(json_file)

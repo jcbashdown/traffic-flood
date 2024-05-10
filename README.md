@@ -31,11 +31,51 @@ rsync -avz --progress user@remote_host:/home/user/remote_directory /home/local_u
 
 ```
 
-# Python tests:
+# Python setup
 
 -   setup a virtual environment
 -   run `pip install -r requirements.txt`
 -   activate it
+
+# Data processing:
+
+Once you have the latest images
+
+0. Ensure python is setup as above
+1. Adjust the dates in `get_hourly_precip_mm.py` based on the range of traffic data you have gathered and get the rain. Note - this will give you forecast data if you set a date in the future:
+
+```
+python get_hourly_precip_mm.py > hourly_precip_mm.json
+```
+
+2. Process the images to get traffic svgs and pngs:
+
+```
+./create-all-traffic-svgs.sh
+```
+
+3. Get the traffic (note, this is very slow):
+
+```
+python ./calculate_traffic_percentages_from_png.py > traffic_history_full.json
+```
+
+4. Combine the data into the file in the ui repo:
+
+```
+python data_processing/combine_rain_and_traffic_data.py > /path/to/traffic-flood-ui/fixtures/combined_data.json
+```
+
+5. Copy the images to the ui repo:
+
+```
+cp -r final_images/svgs/ /path/to/traffic-flood-ui/public/
+```
+
+6. Commit the changes in that repo. Build the static export (`yarn build`) and deploy
+
+# Python tests:
+
 -   run `python -m pytest`
 
 # TODO
@@ -45,6 +85,7 @@ rsync -avz --progress user@remote_host:/home/user/remote_directory /home/local_u
         -   Find every unique timestamp. Assign traffic and image path and then most recent previous rain
 -   better/more faded background map image
 -   UI (probably separate repo)
+-   Enable partial updates of traffic and weather
 
 # TODO tidying
 
@@ -63,3 +104,7 @@ rsync -avz --progress user@remote_host:/home/user/remote_directory /home/local_u
 # Notes
 
 -   I've confirmed the api is giving rain in mm
+
+```
+
+```
