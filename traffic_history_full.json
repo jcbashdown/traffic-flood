@@ -1,447 +1,1547 @@
 [
-    {
-        "timestamp": "2024-05-06T19:48:28Z",
-        "filename": "2024-05-06T19-48-28.927Z.svg",
-        "percentage": 0.0417
-    },
-    {
-        "timestamp": "2024-05-06T19:59:25Z",
-        "filename": "2024-05-06T19-59-25.044Z.svg",
-        "percentage": 0.0314
-    },
-    {
-        "timestamp": "2024-05-06T20:03:27Z",
-        "filename": "2024-05-06T20-03-27.651Z.svg",
-        "percentage": 0.0379
-    },
-    {
-        "timestamp": "2024-05-06T20:04:34Z",
-        "filename": "2024-05-06T20-04-34.333Z.svg",
-        "percentage": 0.0385
-    },
-    {
-        "timestamp": "2024-05-06T20:06:27Z",
-        "filename": "2024-05-06T20-06-27.641Z.svg",
-        "percentage": 0.036
-    },
-    {
-        "timestamp": "2024-05-06T20:37:04Z",
-        "filename": "2024-05-06T20-37-04.345Z.svg",
-        "percentage": 0.0293
-    },
-    {
-        "timestamp": "2024-05-06T21:07:41Z",
-        "filename": "2024-05-06T21-07-41.942Z.svg",
-        "percentage": 0.0269
-    },
-    {
-        "timestamp": "2024-05-06T21:38:15Z",
-        "filename": "2024-05-06T21-38-15.788Z.svg",
-        "percentage": 0.0213
-    },
-    {
-        "timestamp": "2024-05-06T22:08:52Z",
-        "filename": "2024-05-06T22-08-52.373Z.svg",
-        "percentage": 0.0211
-    },
-    {
-        "timestamp": "2024-05-06T22:39:25Z",
-        "filename": "2024-05-06T22-39-25.014Z.svg",
-        "percentage": 0.0171
-    },
-    {
-        "timestamp": "2024-05-06T23:09:58Z",
-        "filename": "2024-05-06T23-09-58.161Z.svg",
-        "percentage": 0.0141
-    },
-    {
-        "timestamp": "2024-05-06T23:40:33Z",
-        "filename": "2024-05-06T23-40-33.108Z.svg",
-        "percentage": 0.0112
-    },
-    {
-        "timestamp": "2024-05-07T00:11:06Z",
-        "filename": "2024-05-07T00-11-06.524Z.svg",
-        "percentage": 0.0093
-    },
-    {
-        "timestamp": "2024-05-07T00:41:46Z",
-        "filename": "2024-05-07T00-41-46.795Z.svg",
-        "percentage": 0.0082
-    },
-    {
-        "timestamp": "2024-05-07T01:12:24Z",
-        "filename": "2024-05-07T01-12-24.507Z.svg",
-        "percentage": 0.0057
-    },
-    {
-        "timestamp": "2024-05-07T01:43:01Z",
-        "filename": "2024-05-07T01-43-01.068Z.svg",
-        "percentage": 0.0057
-    },
-    {
-        "timestamp": "2024-05-07T02:13:32Z",
-        "filename": "2024-05-07T02-13-32.759Z.svg",
-        "percentage": 0.0069
-    },
-    {
-        "timestamp": "2024-05-07T02:44:13Z",
-        "filename": "2024-05-07T02-44-13.071Z.svg",
-        "percentage": 0.0064
-    },
-    {
-        "timestamp": "2024-05-07T03:14:49Z",
-        "filename": "2024-05-07T03-14-49.492Z.svg",
-        "percentage": 0.0142
-    },
-    {
-        "timestamp": "2024-05-07T03:45:30Z",
-        "filename": "2024-05-07T03-45-30.204Z.svg",
-        "percentage": 0.0274
-    },
-    {
-        "timestamp": "2024-05-07T04:16:10Z",
-        "filename": "2024-05-07T04-16-10.349Z.svg",
-        "percentage": 0.0583
-    },
-    {
-        "timestamp": "2024-05-07T04:46:45Z",
-        "filename": "2024-05-07T04-46-45.907Z.svg",
-        "percentage": 0.0916
-    },
-    {
-        "timestamp": "2024-05-07T05:17:24Z",
-        "filename": "2024-05-07T05-17-24.947Z.svg",
-        "percentage": 0.1138
-    },
-    {
-        "timestamp": "2024-05-07T05:48:01Z",
-        "filename": "2024-05-07T05-48-01.293Z.svg",
-        "percentage": 0.1054
-    },
-    {
-        "timestamp": "2024-05-07T06:18:36Z",
-        "filename": "2024-05-07T06-18-36.185Z.svg",
-        "percentage": 0.1026
-    },
-    {
-        "timestamp": "2024-05-07T06:49:10Z",
-        "filename": "2024-05-07T06-49-10.146Z.svg",
-        "percentage": 0.0829
-    },
-    {
-        "timestamp": "2024-05-07T06:51:59Z",
-        "filename": "2024-05-07T06-51-59.868Z.svg",
-        "percentage": 0.0648
-    },
-    {
-        "timestamp": "2024-05-07T06:59:06Z",
-        "filename": "2024-05-07T06-59-06.464Z.svg",
-        "percentage": 0.085
-    },
-    {
-        "timestamp": "2024-05-07T07:29:46Z",
-        "filename": "2024-05-07T07-29-46.096Z.svg",
-        "percentage": 0.0806
-    },
-    {
-        "timestamp": "2024-05-07T08:00:26Z",
-        "filename": "2024-05-07T08-00-26.864Z.svg",
-        "percentage": 0.0863
-    },
-    {
-        "timestamp": "2024-05-07T08:31:05Z",
-        "filename": "2024-05-07T08-31-05.299Z.svg",
-        "percentage": 0.0948
-    },
-    {
-        "timestamp": "2024-05-07T09:01:42Z",
-        "filename": "2024-05-07T09-01-42.573Z.svg",
-        "percentage": 0.0999
-    },
-    {
-        "timestamp": "2024-05-07T09:32:22Z",
-        "filename": "2024-05-07T09-32-22.040Z.svg",
-        "percentage": 0.1021
-    },
-    {
-        "timestamp": "2024-05-07T10:03:04Z",
-        "filename": "2024-05-07T10-03-04.157Z.svg",
-        "percentage": 0.0952
-    },
-    {
-        "timestamp": "2024-05-07T10:33:45Z",
-        "filename": "2024-05-07T10-33-45.367Z.svg",
-        "percentage": 0.0933
-    },
-    {
-        "timestamp": "2024-05-07T11:04:21Z",
-        "filename": "2024-05-07T11-04-21.603Z.svg",
-        "percentage": 0.098
-    },
-    {
-        "timestamp": "2024-05-07T11:35:01Z",
-        "filename": "2024-05-07T11-35-01.032Z.svg",
-        "percentage": 0.1022
-    },
-    {
-        "timestamp": "2024-05-07T12:05:02Z",
-        "filename": "2024-05-07T12-05-02.409Z.svg",
-        "percentage": 0.1082
-    },
-    {
-        "timestamp": "2024-05-07T12:05:39Z",
-        "filename": "2024-05-07T12-05-39.456Z.svg",
-        "percentage": 0.1086
-    },
-    {
-        "timestamp": "2024-05-07T12:30:02Z",
-        "filename": "2024-05-07T12-30-02.026Z.svg",
-        "percentage": 0.1086
-    },
-    {
-        "timestamp": "2024-05-07T12:36:41Z",
-        "filename": "2024-05-07T12-36-41.585Z.svg",
-        "percentage": 0.1192
-    },
-    {
-        "timestamp": "2024-05-07T13:00:02Z",
-        "filename": "2024-05-07T13-00-02.008Z.svg",
-        "percentage": 0.1331
-    },
-    {
-        "timestamp": "2024-05-07T13:07:26Z",
-        "filename": "2024-05-07T13-07-26.555Z.svg",
-        "percentage": 0.1306
-    },
-    {
-        "timestamp": "2024-05-07T13:30:01Z",
-        "filename": "2024-05-07T13-30-01.609Z.svg",
-        "percentage": 0.1609
-    },
-    {
-        "timestamp": "2024-05-07T14:00:01Z",
-        "filename": "2024-05-07T14-00-01.685Z.svg",
-        "percentage": 0.1723
-    },
-    {
-        "timestamp": "2024-05-07T14:30:02Z",
-        "filename": "2024-05-07T14-30-02.440Z.svg",
-        "percentage": 0.2056
-    },
-    {
-        "timestamp": "2024-05-07T15:00:01Z",
-        "filename": "2024-05-07T15-00-01.519Z.svg",
-        "percentage": 0.2102
-    },
-    {
-        "timestamp": "2024-05-07T15:30:01Z",
-        "filename": "2024-05-07T15-30-01.978Z.svg",
-        "percentage": 0.1875
-    },
-    {
-        "timestamp": "2024-05-07T16:00:01Z",
-        "filename": "2024-05-07T16-00-01.733Z.svg",
-        "percentage": 0.1805
-    },
-    {
-        "timestamp": "2024-05-07T16:30:01Z",
-        "filename": "2024-05-07T16-30-01.513Z.svg",
-        "percentage": 0.1561
-    },
-    {
-        "timestamp": "2024-05-07T17:00:01Z",
-        "filename": "2024-05-07T17-00-01.975Z.svg",
-        "percentage": 0.1146
-    },
-    {
-        "timestamp": "2024-05-07T17:30:02Z",
-        "filename": "2024-05-07T17-30-02.179Z.svg",
-        "percentage": 0.0941
-    },
-    {
-        "timestamp": "2024-05-07T18:00:02Z",
-        "filename": "2024-05-07T18-00-02.086Z.svg",
-        "percentage": 0.0755
-    },
-    {
-        "timestamp": "2024-05-07T18:30:01Z",
-        "filename": "2024-05-07T18-30-01.478Z.svg",
-        "percentage": 0.0569
-    },
-    {
-        "timestamp": "2024-05-07T19:00:01Z",
-        "filename": "2024-05-07T19-00-01.539Z.svg",
-        "percentage": 0.0491
-    },
-    {
-        "timestamp": "2024-05-07T19:30:02Z",
-        "filename": "2024-05-07T19-30-02.030Z.svg",
-        "percentage": 0.0423
-    },
-    {
-        "timestamp": "2024-05-07T19:45:02Z",
-        "filename": "2024-05-07T19-45-02.147Z.svg",
-        "percentage": 0.0386
-    },
-    {
-        "timestamp": "2024-05-07T20:00:02Z",
-        "filename": "2024-05-07T20-00-02.016Z.svg",
-        "percentage": 0.0336
-    },
-    {
-        "timestamp": "2024-05-07T20:15:01Z",
-        "filename": "2024-05-07T20-15-01.957Z.svg",
-        "percentage": 0.0329
-    },
-    {
-        "timestamp": "2024-05-07T20:30:01Z",
-        "filename": "2024-05-07T20-30-01.812Z.svg",
-        "percentage": 0.0342
-    },
-    {
-        "timestamp": "2024-05-07T20:45:01Z",
-        "filename": "2024-05-07T20-45-01.535Z.svg",
-        "percentage": 0.035
-    },
-    {
-        "timestamp": "2024-05-07T21:00:02Z",
-        "filename": "2024-05-07T21-00-02.137Z.svg",
-        "percentage": 0.0316
-    },
-    {
-        "timestamp": "2024-05-07T21:15:01Z",
-        "filename": "2024-05-07T21-15-01.381Z.svg",
-        "percentage": 0.0297
-    },
-    {
-        "timestamp": "2024-05-07T21:30:01Z",
-        "filename": "2024-05-07T21-30-01.753Z.svg",
-        "percentage": 0.0252
-    },
-    {
-        "timestamp": "2024-05-07T21:45:01Z",
-        "filename": "2024-05-07T21-45-01.518Z.svg",
-        "percentage": 0.0239
-    },
-    {
-        "timestamp": "2024-05-07T22:00:02Z",
-        "filename": "2024-05-07T22-00-02.032Z.svg",
-        "percentage": 0.0231
-    },
-    {
-        "timestamp": "2024-05-07T22:15:02Z",
-        "filename": "2024-05-07T22-15-02.045Z.svg",
-        "percentage": 0.0182
-    },
-    {
-        "timestamp": "2024-05-07T22:30:01Z",
-        "filename": "2024-05-07T22-30-01.799Z.svg",
-        "percentage": 0.0173
-    },
-    {
-        "timestamp": "2024-05-07T22:45:01Z",
-        "filename": "2024-05-07T22-45-01.817Z.svg",
-        "percentage": 0.0179
-    },
-    {
-        "timestamp": "2024-05-07T23:00:02Z",
-        "filename": "2024-05-07T23-00-02.085Z.svg",
-        "percentage": 0.0149
-    },
-    {
-        "timestamp": "2024-05-07T23:15:02Z",
-        "filename": "2024-05-07T23-15-02.265Z.svg",
-        "percentage": 0.0138
-    },
-    {
-        "timestamp": "2024-05-07T23:30:01Z",
-        "filename": "2024-05-07T23-30-01.896Z.svg",
-        "percentage": 0.0108
-    },
-    {
-        "timestamp": "2024-05-07T23:45:01Z",
-        "filename": "2024-05-07T23-45-01.506Z.svg",
-        "percentage": 0.0094
-    },
-    {
-        "timestamp": "2024-05-08T00:00:02Z",
-        "filename": "2024-05-08T00-00-02.125Z.svg",
-        "percentage": 0.0094
-    },
-    {
-        "timestamp": "2024-05-08T00:15:01Z",
-        "filename": "2024-05-08T00-15-01.400Z.svg",
-        "percentage": 0.0092
-    },
-    {
-        "timestamp": "2024-05-08T00:30:02Z",
-        "filename": "2024-05-08T00-30-02.141Z.svg",
-        "percentage": 0.0087
-    },
-    {
-        "timestamp": "2024-05-08T00:45:02Z",
-        "filename": "2024-05-08T00-45-02.267Z.svg",
-        "percentage": 0.0071
-    },
-    {
-        "timestamp": "2024-05-08T01:00:01Z",
-        "filename": "2024-05-08T01-00-01.879Z.svg",
-        "percentage": 0.0089
-    },
-    {
-        "timestamp": "2024-05-08T01:15:01Z",
-        "filename": "2024-05-08T01-15-01.709Z.svg",
-        "percentage": 0.0092
-    },
-    {
-        "timestamp": "2024-05-08T01:30:01Z",
-        "filename": "2024-05-08T01-30-01.416Z.svg",
-        "percentage": 0.0088
-    },
-    {
-        "timestamp": "2024-05-08T01:45:02Z",
-        "filename": "2024-05-08T01-45-02.358Z.svg",
-        "percentage": 0.0076
-    },
-    {
-        "timestamp": "2024-05-08T02:00:02Z",
-        "filename": "2024-05-08T02-00-02.154Z.svg",
-        "percentage": 0.0081
-    },
-    {
-        "timestamp": "2024-05-08T02:15:01Z",
-        "filename": "2024-05-08T02-15-01.999Z.svg",
-        "percentage": 0.0086
-    },
-    {
-        "timestamp": "2024-05-08T02:30:01Z",
-        "filename": "2024-05-08T02-30-01.973Z.svg",
-        "percentage": 0.0083
-    },
-    {
-        "timestamp": "2024-05-08T02:45:02Z",
-        "filename": "2024-05-08T02-45-02.033Z.svg",
-        "percentage": 0.0088
-    },
-    {
-        "timestamp": "2024-05-08T03:00:01Z",
-        "filename": "2024-05-08T03-00-01.533Z.svg",
-        "percentage": 0.0081
-    },
-    {
-        "timestamp": "2024-05-08T08:51:34Z",
-        "filename": "2024-05-08T08-51-34.197Z.svg",
-        "percentage": 0.0566
-    },
-    {
-        "timestamp": "2024-05-08T08:52:21Z",
-        "filename": "2024-05-08T08-52-21.527Z.svg",
-        "percentage": 0.0817
-    },
-    {
-        "timestamp": "2024-05-08T09:33:41Z",
-        "filename": "2024-05-08T09-33-41.989Z.svg",
-        "percentage": 0.0
-    }
+  {
+    "timestamp": "2024-05-06T19:48:28Z",
+    "filename": "2024-05-06T19-48-28.927Z.svg",
+    "percentage": 0.0417
+  },
+  {
+    "timestamp": "2024-05-06T19:59:25Z",
+    "filename": "2024-05-06T19-59-25.044Z.svg",
+    "percentage": 0.0314
+  },
+  {
+    "timestamp": "2024-05-06T20:03:27Z",
+    "filename": "2024-05-06T20-03-27.651Z.svg",
+    "percentage": 0.0379
+  },
+  {
+    "timestamp": "2024-05-06T20:04:34Z",
+    "filename": "2024-05-06T20-04-34.333Z.svg",
+    "percentage": 0.0385
+  },
+  {
+    "timestamp": "2024-05-06T20:06:27Z",
+    "filename": "2024-05-06T20-06-27.641Z.svg",
+    "percentage": 0.036
+  },
+  {
+    "timestamp": "2024-05-06T20:37:04Z",
+    "filename": "2024-05-06T20-37-04.345Z.svg",
+    "percentage": 0.0293
+  },
+  {
+    "timestamp": "2024-05-06T21:07:41Z",
+    "filename": "2024-05-06T21-07-41.942Z.svg",
+    "percentage": 0.0269
+  },
+  {
+    "timestamp": "2024-05-06T21:38:15Z",
+    "filename": "2024-05-06T21-38-15.788Z.svg",
+    "percentage": 0.0213
+  },
+  {
+    "timestamp": "2024-05-06T22:08:52Z",
+    "filename": "2024-05-06T22-08-52.373Z.svg",
+    "percentage": 0.0211
+  },
+  {
+    "timestamp": "2024-05-06T22:39:25Z",
+    "filename": "2024-05-06T22-39-25.014Z.svg",
+    "percentage": 0.0171
+  },
+  {
+    "timestamp": "2024-05-06T23:09:58Z",
+    "filename": "2024-05-06T23-09-58.161Z.svg",
+    "percentage": 0.0141
+  },
+  {
+    "timestamp": "2024-05-06T23:40:33Z",
+    "filename": "2024-05-06T23-40-33.108Z.svg",
+    "percentage": 0.0112
+  },
+  {
+    "timestamp": "2024-05-07T00:11:06Z",
+    "filename": "2024-05-07T00-11-06.524Z.svg",
+    "percentage": 0.0093
+  },
+  {
+    "timestamp": "2024-05-07T00:41:46Z",
+    "filename": "2024-05-07T00-41-46.795Z.svg",
+    "percentage": 0.0082
+  },
+  {
+    "timestamp": "2024-05-07T01:12:24Z",
+    "filename": "2024-05-07T01-12-24.507Z.svg",
+    "percentage": 0.0057
+  },
+  {
+    "timestamp": "2024-05-07T01:43:01Z",
+    "filename": "2024-05-07T01-43-01.068Z.svg",
+    "percentage": 0.0057
+  },
+  {
+    "timestamp": "2024-05-07T02:13:32Z",
+    "filename": "2024-05-07T02-13-32.759Z.svg",
+    "percentage": 0.0069
+  },
+  {
+    "timestamp": "2024-05-07T02:44:13Z",
+    "filename": "2024-05-07T02-44-13.071Z.svg",
+    "percentage": 0.0064
+  },
+  {
+    "timestamp": "2024-05-07T03:14:49Z",
+    "filename": "2024-05-07T03-14-49.492Z.svg",
+    "percentage": 0.0142
+  },
+  {
+    "timestamp": "2024-05-07T03:45:30Z",
+    "filename": "2024-05-07T03-45-30.204Z.svg",
+    "percentage": 0.0274
+  },
+  {
+    "timestamp": "2024-05-07T04:16:10Z",
+    "filename": "2024-05-07T04-16-10.349Z.svg",
+    "percentage": 0.0583
+  },
+  {
+    "timestamp": "2024-05-07T04:46:45Z",
+    "filename": "2024-05-07T04-46-45.907Z.svg",
+    "percentage": 0.0916
+  },
+  {
+    "timestamp": "2024-05-07T05:17:24Z",
+    "filename": "2024-05-07T05-17-24.947Z.svg",
+    "percentage": 0.1138
+  },
+  {
+    "timestamp": "2024-05-07T05:48:01Z",
+    "filename": "2024-05-07T05-48-01.293Z.svg",
+    "percentage": 0.1054
+  },
+  {
+    "timestamp": "2024-05-07T06:18:36Z",
+    "filename": "2024-05-07T06-18-36.185Z.svg",
+    "percentage": 0.1026
+  },
+  {
+    "timestamp": "2024-05-07T06:49:10Z",
+    "filename": "2024-05-07T06-49-10.146Z.svg",
+    "percentage": 0.0829
+  },
+  {
+    "timestamp": "2024-05-07T06:51:59Z",
+    "filename": "2024-05-07T06-51-59.868Z.svg",
+    "percentage": 0.0648
+  },
+  {
+    "timestamp": "2024-05-07T06:59:06Z",
+    "filename": "2024-05-07T06-59-06.464Z.svg",
+    "percentage": 0.085
+  },
+  {
+    "timestamp": "2024-05-07T07:29:46Z",
+    "filename": "2024-05-07T07-29-46.096Z.svg",
+    "percentage": 0.0806
+  },
+  {
+    "timestamp": "2024-05-07T08:00:26Z",
+    "filename": "2024-05-07T08-00-26.864Z.svg",
+    "percentage": 0.0863
+  },
+  {
+    "timestamp": "2024-05-07T08:31:05Z",
+    "filename": "2024-05-07T08-31-05.299Z.svg",
+    "percentage": 0.0948
+  },
+  {
+    "timestamp": "2024-05-07T09:01:42Z",
+    "filename": "2024-05-07T09-01-42.573Z.svg",
+    "percentage": 0.0999
+  },
+  {
+    "timestamp": "2024-05-07T09:32:22Z",
+    "filename": "2024-05-07T09-32-22.040Z.svg",
+    "percentage": 0.1021
+  },
+  {
+    "timestamp": "2024-05-07T10:03:04Z",
+    "filename": "2024-05-07T10-03-04.157Z.svg",
+    "percentage": 0.0952
+  },
+  {
+    "timestamp": "2024-05-07T10:33:45Z",
+    "filename": "2024-05-07T10-33-45.367Z.svg",
+    "percentage": 0.0933
+  },
+  {
+    "timestamp": "2024-05-07T11:04:21Z",
+    "filename": "2024-05-07T11-04-21.603Z.svg",
+    "percentage": 0.098
+  },
+  {
+    "timestamp": "2024-05-07T11:35:01Z",
+    "filename": "2024-05-07T11-35-01.032Z.svg",
+    "percentage": 0.1022
+  },
+  {
+    "timestamp": "2024-05-07T12:05:02Z",
+    "filename": "2024-05-07T12-05-02.409Z.svg",
+    "percentage": 0.1082
+  },
+  {
+    "timestamp": "2024-05-07T12:05:39Z",
+    "filename": "2024-05-07T12-05-39.456Z.svg",
+    "percentage": 0.1086
+  },
+  {
+    "timestamp": "2024-05-07T12:30:02Z",
+    "filename": "2024-05-07T12-30-02.026Z.svg",
+    "percentage": 0.1086
+  },
+  {
+    "timestamp": "2024-05-07T12:36:41Z",
+    "filename": "2024-05-07T12-36-41.585Z.svg",
+    "percentage": 0.1192
+  },
+  {
+    "timestamp": "2024-05-07T13:00:02Z",
+    "filename": "2024-05-07T13-00-02.008Z.svg",
+    "percentage": 0.1331
+  },
+  {
+    "timestamp": "2024-05-07T13:07:26Z",
+    "filename": "2024-05-07T13-07-26.555Z.svg",
+    "percentage": 0.1306
+  },
+  {
+    "timestamp": "2024-05-07T13:30:01Z",
+    "filename": "2024-05-07T13-30-01.609Z.svg",
+    "percentage": 0.1609
+  },
+  {
+    "timestamp": "2024-05-07T14:00:01Z",
+    "filename": "2024-05-07T14-00-01.685Z.svg",
+    "percentage": 0.1723
+  },
+  {
+    "timestamp": "2024-05-07T14:30:02Z",
+    "filename": "2024-05-07T14-30-02.440Z.svg",
+    "percentage": 0.2056
+  },
+  {
+    "timestamp": "2024-05-07T15:00:01Z",
+    "filename": "2024-05-07T15-00-01.519Z.svg",
+    "percentage": 0.2102
+  },
+  {
+    "timestamp": "2024-05-07T15:30:01Z",
+    "filename": "2024-05-07T15-30-01.978Z.svg",
+    "percentage": 0.1875
+  },
+  {
+    "timestamp": "2024-05-07T16:00:01Z",
+    "filename": "2024-05-07T16-00-01.733Z.svg",
+    "percentage": 0.1805
+  },
+  {
+    "timestamp": "2024-05-07T16:30:01Z",
+    "filename": "2024-05-07T16-30-01.513Z.svg",
+    "percentage": 0.1561
+  },
+  {
+    "timestamp": "2024-05-07T17:00:01Z",
+    "filename": "2024-05-07T17-00-01.975Z.svg",
+    "percentage": 0.1146
+  },
+  {
+    "timestamp": "2024-05-07T17:30:02Z",
+    "filename": "2024-05-07T17-30-02.179Z.svg",
+    "percentage": 0.0941
+  },
+  {
+    "timestamp": "2024-05-07T18:00:02Z",
+    "filename": "2024-05-07T18-00-02.086Z.svg",
+    "percentage": 0.0755
+  },
+  {
+    "timestamp": "2024-05-07T18:30:01Z",
+    "filename": "2024-05-07T18-30-01.478Z.svg",
+    "percentage": 0.0569
+  },
+  {
+    "timestamp": "2024-05-07T19:00:01Z",
+    "filename": "2024-05-07T19-00-01.539Z.svg",
+    "percentage": 0.0491
+  },
+  {
+    "timestamp": "2024-05-07T19:30:02Z",
+    "filename": "2024-05-07T19-30-02.030Z.svg",
+    "percentage": 0.0423
+  },
+  {
+    "timestamp": "2024-05-07T19:45:02Z",
+    "filename": "2024-05-07T19-45-02.147Z.svg",
+    "percentage": 0.0386
+  },
+  {
+    "timestamp": "2024-05-07T20:00:02Z",
+    "filename": "2024-05-07T20-00-02.016Z.svg",
+    "percentage": 0.0336
+  },
+  {
+    "timestamp": "2024-05-07T20:15:01Z",
+    "filename": "2024-05-07T20-15-01.957Z.svg",
+    "percentage": 0.0329
+  },
+  {
+    "timestamp": "2024-05-07T20:30:01Z",
+    "filename": "2024-05-07T20-30-01.812Z.svg",
+    "percentage": 0.0342
+  },
+  {
+    "timestamp": "2024-05-07T20:45:01Z",
+    "filename": "2024-05-07T20-45-01.535Z.svg",
+    "percentage": 0.035
+  },
+  {
+    "timestamp": "2024-05-07T21:00:02Z",
+    "filename": "2024-05-07T21-00-02.137Z.svg",
+    "percentage": 0.0316
+  },
+  {
+    "timestamp": "2024-05-07T21:15:01Z",
+    "filename": "2024-05-07T21-15-01.381Z.svg",
+    "percentage": 0.0297
+  },
+  {
+    "timestamp": "2024-05-07T21:30:01Z",
+    "filename": "2024-05-07T21-30-01.753Z.svg",
+    "percentage": 0.0252
+  },
+  {
+    "timestamp": "2024-05-07T21:45:01Z",
+    "filename": "2024-05-07T21-45-01.518Z.svg",
+    "percentage": 0.0239
+  },
+  {
+    "timestamp": "2024-05-07T22:00:02Z",
+    "filename": "2024-05-07T22-00-02.032Z.svg",
+    "percentage": 0.0231
+  },
+  {
+    "timestamp": "2024-05-07T22:15:02Z",
+    "filename": "2024-05-07T22-15-02.045Z.svg",
+    "percentage": 0.0182
+  },
+  {
+    "timestamp": "2024-05-07T22:30:01Z",
+    "filename": "2024-05-07T22-30-01.799Z.svg",
+    "percentage": 0.0173
+  },
+  {
+    "timestamp": "2024-05-07T22:45:01Z",
+    "filename": "2024-05-07T22-45-01.817Z.svg",
+    "percentage": 0.0179
+  },
+  {
+    "timestamp": "2024-05-07T23:00:02Z",
+    "filename": "2024-05-07T23-00-02.085Z.svg",
+    "percentage": 0.0149
+  },
+  {
+    "timestamp": "2024-05-07T23:15:02Z",
+    "filename": "2024-05-07T23-15-02.265Z.svg",
+    "percentage": 0.0138
+  },
+  {
+    "timestamp": "2024-05-07T23:30:01Z",
+    "filename": "2024-05-07T23-30-01.896Z.svg",
+    "percentage": 0.0108
+  },
+  {
+    "timestamp": "2024-05-07T23:45:01Z",
+    "filename": "2024-05-07T23-45-01.506Z.svg",
+    "percentage": 0.0094
+  },
+  {
+    "timestamp": "2024-05-08T00:00:02Z",
+    "filename": "2024-05-08T00-00-02.125Z.svg",
+    "percentage": 0.0094
+  },
+  {
+    "timestamp": "2024-05-08T00:15:01Z",
+    "filename": "2024-05-08T00-15-01.400Z.svg",
+    "percentage": 0.0092
+  },
+  {
+    "timestamp": "2024-05-08T00:30:02Z",
+    "filename": "2024-05-08T00-30-02.141Z.svg",
+    "percentage": 0.0087
+  },
+  {
+    "timestamp": "2024-05-08T00:45:02Z",
+    "filename": "2024-05-08T00-45-02.267Z.svg",
+    "percentage": 0.0071
+  },
+  {
+    "timestamp": "2024-05-08T01:00:01Z",
+    "filename": "2024-05-08T01-00-01.879Z.svg",
+    "percentage": 0.0089
+  },
+  {
+    "timestamp": "2024-05-08T01:15:01Z",
+    "filename": "2024-05-08T01-15-01.709Z.svg",
+    "percentage": 0.0092
+  },
+  {
+    "timestamp": "2024-05-08T01:30:01Z",
+    "filename": "2024-05-08T01-30-01.416Z.svg",
+    "percentage": 0.0088
+  },
+  {
+    "timestamp": "2024-05-08T01:45:02Z",
+    "filename": "2024-05-08T01-45-02.358Z.svg",
+    "percentage": 0.0076
+  },
+  {
+    "timestamp": "2024-05-08T02:00:02Z",
+    "filename": "2024-05-08T02-00-02.154Z.svg",
+    "percentage": 0.0081
+  },
+  {
+    "timestamp": "2024-05-08T02:15:01Z",
+    "filename": "2024-05-08T02-15-01.999Z.svg",
+    "percentage": 0.0086
+  },
+  {
+    "timestamp": "2024-05-08T02:30:01Z",
+    "filename": "2024-05-08T02-30-01.973Z.svg",
+    "percentage": 0.0083
+  },
+  {
+    "timestamp": "2024-05-08T02:45:02Z",
+    "filename": "2024-05-08T02-45-02.033Z.svg",
+    "percentage": 0.0088
+  },
+  {
+    "timestamp": "2024-05-08T03:00:01Z",
+    "filename": "2024-05-08T03-00-01.533Z.svg",
+    "percentage": 0.0081
+  },
+  {
+    "timestamp": "2024-05-08T03:15:02Z",
+    "filename": "2024-05-08T03-15-02.213Z.svg",
+    "percentage": 0.0099
+  },
+  {
+    "timestamp": "2024-05-08T03:30:02Z",
+    "filename": "2024-05-08T03-30-02.157Z.svg",
+    "percentage": 0.0164
+  },
+  {
+    "timestamp": "2024-05-08T03:45:01Z",
+    "filename": "2024-05-08T03-45-01.389Z.svg",
+    "percentage": 0.0237
+  },
+  {
+    "timestamp": "2024-05-08T04:00:01Z",
+    "filename": "2024-05-08T04-00-01.885Z.svg",
+    "percentage": 0.0401
+  },
+  {
+    "timestamp": "2024-05-08T04:15:02Z",
+    "filename": "2024-05-08T04-15-02.305Z.svg",
+    "percentage": 0.0517
+  },
+  {
+    "timestamp": "2024-05-08T04:30:01Z",
+    "filename": "2024-05-08T04-30-01.599Z.svg",
+    "percentage": 0.0653
+  },
+  {
+    "timestamp": "2024-05-08T04:45:01Z",
+    "filename": "2024-05-08T04-45-01.593Z.svg",
+    "percentage": 0.098
+  },
+  {
+    "timestamp": "2024-05-08T05:00:02Z",
+    "filename": "2024-05-08T05-00-02.148Z.svg",
+    "percentage": 0.1066
+  },
+  {
+    "timestamp": "2024-05-08T05:15:02Z",
+    "filename": "2024-05-08T05-15-02.007Z.svg",
+    "percentage": 0.1064
+  },
+  {
+    "timestamp": "2024-05-08T05:30:01Z",
+    "filename": "2024-05-08T05-30-01.413Z.svg",
+    "percentage": 0.1075
+  },
+  {
+    "timestamp": "2024-05-08T05:45:01Z",
+    "filename": "2024-05-08T05-45-01.832Z.svg",
+    "percentage": 0.0965
+  },
+  {
+    "timestamp": "2024-05-08T06:00:01Z",
+    "filename": "2024-05-08T06-00-01.777Z.svg",
+    "percentage": 0.0916
+  },
+  {
+    "timestamp": "2024-05-08T06:15:02Z",
+    "filename": "2024-05-08T06-15-02.105Z.svg",
+    "percentage": 0.083
+  },
+  {
+    "timestamp": "2024-05-08T06:30:02Z",
+    "filename": "2024-05-08T06-30-02.462Z.svg",
+    "percentage": 0.0841
+  },
+  {
+    "timestamp": "2024-05-08T06:45:01Z",
+    "filename": "2024-05-08T06-45-01.391Z.svg",
+    "percentage": 0.0813
+  },
+  {
+    "timestamp": "2024-05-08T07:00:02Z",
+    "filename": "2024-05-08T07-00-02.218Z.svg",
+    "percentage": 0.0823
+  },
+  {
+    "timestamp": "2024-05-08T07:15:02Z",
+    "filename": "2024-05-08T07-15-02.000Z.svg",
+    "percentage": 0.0715
+  },
+  {
+    "timestamp": "2024-05-08T07:30:02Z",
+    "filename": "2024-05-08T07-30-02.344Z.svg",
+    "percentage": 0.0772
+  },
+  {
+    "timestamp": "2024-05-08T07:45:01Z",
+    "filename": "2024-05-08T07-45-01.722Z.svg",
+    "percentage": 0.0811
+  },
+  {
+    "timestamp": "2024-05-08T08:00:02Z",
+    "filename": "2024-05-08T08-00-02.017Z.svg",
+    "percentage": 0.0874
+  },
+  {
+    "timestamp": "2024-05-08T08:15:02Z",
+    "filename": "2024-05-08T08-15-02.165Z.svg",
+    "percentage": 0.0857
+  },
+  {
+    "timestamp": "2024-05-08T08:30:01Z",
+    "filename": "2024-05-08T08-30-01.884Z.svg",
+    "percentage": 0.0867
+  },
+  {
+    "timestamp": "2024-05-08T08:45:02Z",
+    "filename": "2024-05-08T08-45-02.309Z.svg",
+    "percentage": 0.0861
+  },
+  {
+    "timestamp": "2024-05-08T08:51:34Z",
+    "filename": "2024-05-08T08-51-34.197Z.svg",
+    "percentage": 0.0566
+  },
+  {
+    "timestamp": "2024-05-08T08:52:21Z",
+    "filename": "2024-05-08T08-52-21.527Z.svg",
+    "percentage": 0.0817
+  },
+  {
+    "timestamp": "2024-05-08T09:00:01Z",
+    "filename": "2024-05-08T09-00-01.681Z.svg",
+    "percentage": 0.0827
+  },
+  {
+    "timestamp": "2024-05-08T09:15:01Z",
+    "filename": "2024-05-08T09-15-01.785Z.svg",
+    "percentage": 0.0923
+  },
+  {
+    "timestamp": "2024-05-08T09:30:02Z",
+    "filename": "2024-05-08T09-30-02.002Z.svg",
+    "percentage": 0.0953
+  },
+  {
+    "timestamp": "2024-05-08T09:33:41Z",
+    "filename": "2024-05-08T09-33-41.989Z.svg",
+    "percentage": 0.0
+  },
+  {
+    "timestamp": "2024-05-08T09:45:01Z",
+    "filename": "2024-05-08T09-45-01.501Z.svg",
+    "percentage": 0.0946
+  },
+  {
+    "timestamp": "2024-05-08T10:00:02Z",
+    "filename": "2024-05-08T10-00-02.116Z.svg",
+    "percentage": 0.0932
+  },
+  {
+    "timestamp": "2024-05-08T10:15:01Z",
+    "filename": "2024-05-08T10-15-01.520Z.svg",
+    "percentage": 0.0936
+  },
+  {
+    "timestamp": "2024-05-08T10:30:01Z",
+    "filename": "2024-05-08T10-30-01.953Z.svg",
+    "percentage": 0.0955
+  },
+  {
+    "timestamp": "2024-05-08T10:45:01Z",
+    "filename": "2024-05-08T10-45-01.657Z.svg",
+    "percentage": 0.096
+  },
+  {
+    "timestamp": "2024-05-08T11:00:01Z",
+    "filename": "2024-05-08T11-00-01.449Z.svg",
+    "percentage": 0.1003
+  },
+  {
+    "timestamp": "2024-05-08T11:15:01Z",
+    "filename": "2024-05-08T11-15-01.580Z.svg",
+    "percentage": 0.0994
+  },
+  {
+    "timestamp": "2024-05-08T11:30:02Z",
+    "filename": "2024-05-08T11-30-02.205Z.svg",
+    "percentage": 0.0885
+  },
+  {
+    "timestamp": "2024-05-08T11:45:01Z",
+    "filename": "2024-05-08T11-45-01.597Z.svg",
+    "percentage": 0.1033
+  },
+  {
+    "timestamp": "2024-05-08T12:00:02Z",
+    "filename": "2024-05-08T12-00-02.067Z.svg",
+    "percentage": 0.1117
+  },
+  {
+    "timestamp": "2024-05-08T12:15:02Z",
+    "filename": "2024-05-08T12-15-02.179Z.svg",
+    "percentage": 0.115
+  },
+  {
+    "timestamp": "2024-05-08T12:30:01Z",
+    "filename": "2024-05-08T12-30-01.474Z.svg",
+    "percentage": 0.1158
+  },
+  {
+    "timestamp": "2024-05-08T12:45:01Z",
+    "filename": "2024-05-08T12-45-01.777Z.svg",
+    "percentage": 0.1238
+  },
+  {
+    "timestamp": "2024-05-08T13:00:02Z",
+    "filename": "2024-05-08T13-00-02.335Z.svg",
+    "percentage": 0.1261
+  },
+  {
+    "timestamp": "2024-05-08T13:15:01Z",
+    "filename": "2024-05-08T13-15-01.665Z.svg",
+    "percentage": 0.1206
+  },
+  {
+    "timestamp": "2024-05-08T13:30:01Z",
+    "filename": "2024-05-08T13-30-01.691Z.svg",
+    "percentage": 0.1301
+  },
+  {
+    "timestamp": "2024-05-08T13:45:01Z",
+    "filename": "2024-05-08T13-45-01.669Z.svg",
+    "percentage": 0.1376
+  },
+  {
+    "timestamp": "2024-05-08T14:00:01Z",
+    "filename": "2024-05-08T14-00-01.350Z.svg",
+    "percentage": 0.1591
+  },
+  {
+    "timestamp": "2024-05-08T14:15:02Z",
+    "filename": "2024-05-08T14-15-02.276Z.svg",
+    "percentage": 0.1717
+  },
+  {
+    "timestamp": "2024-05-08T14:30:02Z",
+    "filename": "2024-05-08T14-30-02.363Z.svg",
+    "percentage": 0.1868
+  },
+  {
+    "timestamp": "2024-05-08T14:45:02Z",
+    "filename": "2024-05-08T14-45-02.041Z.svg",
+    "percentage": 0.2022
+  },
+  {
+    "timestamp": "2024-05-08T15:00:02Z",
+    "filename": "2024-05-08T15-00-02.311Z.svg",
+    "percentage": 0.1998
+  },
+  {
+    "timestamp": "2024-05-08T15:15:01Z",
+    "filename": "2024-05-08T15-15-01.514Z.svg",
+    "percentage": 0.1881
+  },
+  {
+    "timestamp": "2024-05-08T15:30:02Z",
+    "filename": "2024-05-08T15-30-02.117Z.svg",
+    "percentage": 0.1845
+  },
+  {
+    "timestamp": "2024-05-08T15:45:01Z",
+    "filename": "2024-05-08T15-45-01.889Z.svg",
+    "percentage": 0.1822
+  },
+  {
+    "timestamp": "2024-05-08T16:00:02Z",
+    "filename": "2024-05-08T16-00-02.461Z.svg",
+    "percentage": 0.1817
+  },
+  {
+    "timestamp": "2024-05-08T16:15:02Z",
+    "filename": "2024-05-08T16-15-02.201Z.svg",
+    "percentage": 0.1635
+  },
+  {
+    "timestamp": "2024-05-08T16:30:02Z",
+    "filename": "2024-05-08T16-30-02.384Z.svg",
+    "percentage": 0.1542
+  },
+  {
+    "timestamp": "2024-05-08T16:45:01Z",
+    "filename": "2024-05-08T16-45-01.834Z.svg",
+    "percentage": 0.1416
+  },
+  {
+    "timestamp": "2024-05-08T17:00:01Z",
+    "filename": "2024-05-08T17-00-01.969Z.svg",
+    "percentage": 0.1287
+  },
+  {
+    "timestamp": "2024-05-08T17:15:01Z",
+    "filename": "2024-05-08T17-15-01.999Z.svg",
+    "percentage": 0.1056
+  },
+  {
+    "timestamp": "2024-05-08T17:30:02Z",
+    "filename": "2024-05-08T17-30-02.172Z.svg",
+    "percentage": 0.0895
+  },
+  {
+    "timestamp": "2024-05-08T17:45:01Z",
+    "filename": "2024-05-08T17-45-01.609Z.svg",
+    "percentage": 0.081
+  },
+  {
+    "timestamp": "2024-05-08T18:00:02Z",
+    "filename": "2024-05-08T18-00-02.309Z.svg",
+    "percentage": 0.072
+  },
+  {
+    "timestamp": "2024-05-08T18:15:01Z",
+    "filename": "2024-05-08T18-15-01.442Z.svg",
+    "percentage": 0.0677
+  },
+  {
+    "timestamp": "2024-05-08T18:30:02Z",
+    "filename": "2024-05-08T18-30-02.281Z.svg",
+    "percentage": 0.0597
+  },
+  {
+    "timestamp": "2024-05-08T18:45:02Z",
+    "filename": "2024-05-08T18-45-02.169Z.svg",
+    "percentage": 0.0549
+  },
+  {
+    "timestamp": "2024-05-08T19:00:01Z",
+    "filename": "2024-05-08T19-00-01.582Z.svg",
+    "percentage": 0.0482
+  },
+  {
+    "timestamp": "2024-05-08T19:15:02Z",
+    "filename": "2024-05-08T19-15-02.133Z.svg",
+    "percentage": 0.0438
+  },
+  {
+    "timestamp": "2024-05-08T19:30:01Z",
+    "filename": "2024-05-08T19-30-01.720Z.svg",
+    "percentage": 0.0425
+  },
+  {
+    "timestamp": "2024-05-08T19:45:02Z",
+    "filename": "2024-05-08T19-45-02.437Z.svg",
+    "percentage": 0.0382
+  },
+  {
+    "timestamp": "2024-05-08T20:00:02Z",
+    "filename": "2024-05-08T20-00-02.045Z.svg",
+    "percentage": 0.0351
+  },
+  {
+    "timestamp": "2024-05-08T20:15:02Z",
+    "filename": "2024-05-08T20-15-02.009Z.svg",
+    "percentage": 0.0325
+  },
+  {
+    "timestamp": "2024-05-08T20:30:02Z",
+    "filename": "2024-05-08T20-30-02.147Z.svg",
+    "percentage": 0.0303
+  },
+  {
+    "timestamp": "2024-05-08T20:45:02Z",
+    "filename": "2024-05-08T20-45-02.165Z.svg",
+    "percentage": 0.027
+  },
+  {
+    "timestamp": "2024-05-08T21:00:02Z",
+    "filename": "2024-05-08T21-00-02.005Z.svg",
+    "percentage": 0.0271
+  },
+  {
+    "timestamp": "2024-05-08T21:15:01Z",
+    "filename": "2024-05-08T21-15-01.724Z.svg",
+    "percentage": 0.0257
+  },
+  {
+    "timestamp": "2024-05-08T21:30:01Z",
+    "filename": "2024-05-08T21-30-01.379Z.svg",
+    "percentage": 0.024
+  },
+  {
+    "timestamp": "2024-05-08T21:45:02Z",
+    "filename": "2024-05-08T21-45-02.413Z.svg",
+    "percentage": 0.0234
+  },
+  {
+    "timestamp": "2024-05-08T22:00:01Z",
+    "filename": "2024-05-08T22-00-01.728Z.svg",
+    "percentage": 0.0208
+  },
+  {
+    "timestamp": "2024-05-08T22:15:02Z",
+    "filename": "2024-05-08T22-15-02.043Z.svg",
+    "percentage": 0.0202
+  },
+  {
+    "timestamp": "2024-05-08T22:30:01Z",
+    "filename": "2024-05-08T22-30-01.574Z.svg",
+    "percentage": 0.0182
+  },
+  {
+    "timestamp": "2024-05-08T22:45:02Z",
+    "filename": "2024-05-08T22-45-02.283Z.svg",
+    "percentage": 0.0165
+  },
+  {
+    "timestamp": "2024-05-08T23:00:01Z",
+    "filename": "2024-05-08T23-00-01.415Z.svg",
+    "percentage": 0.0141
+  },
+  {
+    "timestamp": "2024-05-08T23:15:01Z",
+    "filename": "2024-05-08T23-15-01.678Z.svg",
+    "percentage": 0.0127
+  },
+  {
+    "timestamp": "2024-05-08T23:30:02Z",
+    "filename": "2024-05-08T23-30-02.077Z.svg",
+    "percentage": 0.013
+  },
+  {
+    "timestamp": "2024-05-08T23:45:02Z",
+    "filename": "2024-05-08T23-45-02.393Z.svg",
+    "percentage": 0.0125
+  },
+  {
+    "timestamp": "2024-05-09T00:00:02Z",
+    "filename": "2024-05-09T00-00-02.009Z.svg",
+    "percentage": 0.0123
+  },
+  {
+    "timestamp": "2024-05-09T00:15:02Z",
+    "filename": "2024-05-09T00-15-02.233Z.svg",
+    "percentage": 0.0115
+  },
+  {
+    "timestamp": "2024-05-09T00:30:01Z",
+    "filename": "2024-05-09T00-30-01.800Z.svg",
+    "percentage": 0.009
+  },
+  {
+    "timestamp": "2024-05-09T00:45:01Z",
+    "filename": "2024-05-09T00-45-01.721Z.svg",
+    "percentage": 0.0122
+  },
+  {
+    "timestamp": "2024-05-09T01:00:01Z",
+    "filename": "2024-05-09T01-00-01.549Z.svg",
+    "percentage": 0.0131
+  },
+  {
+    "timestamp": "2024-05-09T01:15:02Z",
+    "filename": "2024-05-09T01-15-02.210Z.svg",
+    "percentage": 0.0112
+  },
+  {
+    "timestamp": "2024-05-09T01:30:01Z",
+    "filename": "2024-05-09T01-30-01.560Z.svg",
+    "percentage": 0.008
+  },
+  {
+    "timestamp": "2024-05-09T01:45:01Z",
+    "filename": "2024-05-09T01-45-01.595Z.svg",
+    "percentage": 0.0088
+  },
+  {
+    "timestamp": "2024-05-09T02:00:01Z",
+    "filename": "2024-05-09T02-00-01.699Z.svg",
+    "percentage": 0.0094
+  },
+  {
+    "timestamp": "2024-05-09T02:15:01Z",
+    "filename": "2024-05-09T02-15-01.857Z.svg",
+    "percentage": 0.0101
+  },
+  {
+    "timestamp": "2024-05-09T02:30:01Z",
+    "filename": "2024-05-09T02-30-01.718Z.svg",
+    "percentage": 0.0108
+  },
+  {
+    "timestamp": "2024-05-09T02:45:01Z",
+    "filename": "2024-05-09T02-45-01.889Z.svg",
+    "percentage": 0.0105
+  },
+  {
+    "timestamp": "2024-05-09T03:00:02Z",
+    "filename": "2024-05-09T03-00-02.522Z.svg",
+    "percentage": 0.0094
+  },
+  {
+    "timestamp": "2024-05-09T03:15:02Z",
+    "filename": "2024-05-09T03-15-02.003Z.svg",
+    "percentage": 0.0125
+  },
+  {
+    "timestamp": "2024-05-09T03:30:01Z",
+    "filename": "2024-05-09T03-30-01.679Z.svg",
+    "percentage": 0.0175
+  },
+  {
+    "timestamp": "2024-05-09T03:45:02Z",
+    "filename": "2024-05-09T03-45-02.012Z.svg",
+    "percentage": 0.0253
+  },
+  {
+    "timestamp": "2024-05-09T04:00:02Z",
+    "filename": "2024-05-09T04-00-02.319Z.svg",
+    "percentage": 0.0403
+  },
+  {
+    "timestamp": "2024-05-09T04:15:02Z",
+    "filename": "2024-05-09T04-15-02.101Z.svg",
+    "percentage": 0.0503
+  },
+  {
+    "timestamp": "2024-05-09T04:30:01Z",
+    "filename": "2024-05-09T04-30-01.916Z.svg",
+    "percentage": 0.0684
+  },
+  {
+    "timestamp": "2024-05-09T04:45:01Z",
+    "filename": "2024-05-09T04-45-01.692Z.svg",
+    "percentage": 0.0869
+  },
+  {
+    "timestamp": "2024-05-09T05:00:01Z",
+    "filename": "2024-05-09T05-00-01.565Z.svg",
+    "percentage": 0.1001
+  },
+  {
+    "timestamp": "2024-05-09T05:15:01Z",
+    "filename": "2024-05-09T05-15-01.635Z.svg",
+    "percentage": 0.1057
+  },
+  {
+    "timestamp": "2024-05-09T05:30:02Z",
+    "filename": "2024-05-09T05-30-02.077Z.svg",
+    "percentage": 0.1029
+  },
+  {
+    "timestamp": "2024-05-09T05:45:01Z",
+    "filename": "2024-05-09T05-45-01.796Z.svg",
+    "percentage": 0.096
+  },
+  {
+    "timestamp": "2024-05-09T06:00:01Z",
+    "filename": "2024-05-09T06-00-01.691Z.svg",
+    "percentage": 0.0957
+  },
+  {
+    "timestamp": "2024-05-09T06:15:01Z",
+    "filename": "2024-05-09T06-15-01.659Z.svg",
+    "percentage": 0.0901
+  },
+  {
+    "timestamp": "2024-05-09T06:30:02Z",
+    "filename": "2024-05-09T06-30-02.176Z.svg",
+    "percentage": 0.0911
+  },
+  {
+    "timestamp": "2024-05-09T06:45:01Z",
+    "filename": "2024-05-09T06-45-01.750Z.svg",
+    "percentage": 0.0886
+  },
+  {
+    "timestamp": "2024-05-09T07:00:01Z",
+    "filename": "2024-05-09T07-00-01.728Z.svg",
+    "percentage": 0.0877
+  },
+  {
+    "timestamp": "2024-05-09T07:15:01Z",
+    "filename": "2024-05-09T07-15-01.791Z.svg",
+    "percentage": 0.0815
+  },
+  {
+    "timestamp": "2024-05-09T07:30:02Z",
+    "filename": "2024-05-09T07-30-02.349Z.svg",
+    "percentage": 0.0785
+  },
+  {
+    "timestamp": "2024-05-09T07:45:02Z",
+    "filename": "2024-05-09T07-45-02.409Z.svg",
+    "percentage": 0.0809
+  },
+  {
+    "timestamp": "2024-05-09T08:00:01Z",
+    "filename": "2024-05-09T08-00-01.857Z.svg",
+    "percentage": 0.0829
+  },
+  {
+    "timestamp": "2024-05-09T08:15:01Z",
+    "filename": "2024-05-09T08-15-01.534Z.svg",
+    "percentage": 0.0845
+  },
+  {
+    "timestamp": "2024-05-09T08:30:01Z",
+    "filename": "2024-05-09T08-30-01.418Z.svg",
+    "percentage": 0.0923
+  },
+  {
+    "timestamp": "2024-05-09T08:45:02Z",
+    "filename": "2024-05-09T08-45-02.377Z.svg",
+    "percentage": 0.0946
+  },
+  {
+    "timestamp": "2024-05-09T09:00:01Z",
+    "filename": "2024-05-09T09-00-01.553Z.svg",
+    "percentage": 0.0971
+  },
+  {
+    "timestamp": "2024-05-09T09:15:01Z",
+    "filename": "2024-05-09T09-15-01.754Z.svg",
+    "percentage": 0.0938
+  },
+  {
+    "timestamp": "2024-05-09T09:30:01Z",
+    "filename": "2024-05-09T09-30-01.900Z.svg",
+    "percentage": 0.0974
+  },
+  {
+    "timestamp": "2024-05-09T09:45:02Z",
+    "filename": "2024-05-09T09-45-02.062Z.svg",
+    "percentage": 0.0924
+  },
+  {
+    "timestamp": "2024-05-09T10:00:02Z",
+    "filename": "2024-05-09T10-00-02.161Z.svg",
+    "percentage": 0.0857
+  },
+  {
+    "timestamp": "2024-05-09T10:15:02Z",
+    "filename": "2024-05-09T10-15-02.327Z.svg",
+    "percentage": 0.1031
+  },
+  {
+    "timestamp": "2024-05-09T10:30:01Z",
+    "filename": "2024-05-09T10-30-01.818Z.svg",
+    "percentage": 0.0911
+  },
+  {
+    "timestamp": "2024-05-09T10:45:01Z",
+    "filename": "2024-05-09T10-45-01.580Z.svg",
+    "percentage": 0.1031
+  },
+  {
+    "timestamp": "2024-05-09T11:00:01Z",
+    "filename": "2024-05-09T11-00-01.746Z.svg",
+    "percentage": 0.1022
+  },
+  {
+    "timestamp": "2024-05-09T11:15:01Z",
+    "filename": "2024-05-09T11-15-01.894Z.svg",
+    "percentage": 0.1065
+  },
+  {
+    "timestamp": "2024-05-09T11:30:01Z",
+    "filename": "2024-05-09T11-30-01.876Z.svg",
+    "percentage": 0.11
+  },
+  {
+    "timestamp": "2024-05-09T11:45:02Z",
+    "filename": "2024-05-09T11-45-02.257Z.svg",
+    "percentage": 0.11
+  },
+  {
+    "timestamp": "2024-05-09T12:00:02Z",
+    "filename": "2024-05-09T12-00-02.188Z.svg",
+    "percentage": 0.1231
+  },
+  {
+    "timestamp": "2024-05-09T12:15:01Z",
+    "filename": "2024-05-09T12-15-01.355Z.svg",
+    "percentage": 0.1246
+  },
+  {
+    "timestamp": "2024-05-09T12:30:01Z",
+    "filename": "2024-05-09T12-30-01.740Z.svg",
+    "percentage": 0.1228
+  },
+  {
+    "timestamp": "2024-05-09T12:45:01Z",
+    "filename": "2024-05-09T12-45-01.903Z.svg",
+    "percentage": 0.1357
+  },
+  {
+    "timestamp": "2024-05-09T13:00:01Z",
+    "filename": "2024-05-09T13-00-01.815Z.svg",
+    "percentage": 0.1336
+  },
+  {
+    "timestamp": "2024-05-09T13:15:01Z",
+    "filename": "2024-05-09T13-15-01.918Z.svg",
+    "percentage": 0.1329
+  },
+  {
+    "timestamp": "2024-05-09T13:30:02Z",
+    "filename": "2024-05-09T13-30-02.176Z.svg",
+    "percentage": 0.1395
+  },
+  {
+    "timestamp": "2024-05-09T13:45:02Z",
+    "filename": "2024-05-09T13-45-02.306Z.svg",
+    "percentage": 0.1366
+  },
+  {
+    "timestamp": "2024-05-09T14:00:01Z",
+    "filename": "2024-05-09T14-00-01.909Z.svg",
+    "percentage": 0.1504
+  },
+  {
+    "timestamp": "2024-05-09T14:15:02Z",
+    "filename": "2024-05-09T14-15-02.336Z.svg",
+    "percentage": 0.1608
+  },
+  {
+    "timestamp": "2024-05-09T14:30:02Z",
+    "filename": "2024-05-09T14-30-02.321Z.svg",
+    "percentage": 0.1711
+  },
+  {
+    "timestamp": "2024-05-09T14:45:01Z",
+    "filename": "2024-05-09T14-45-01.798Z.svg",
+    "percentage": 0.1875
+  },
+  {
+    "timestamp": "2024-05-09T15:00:01Z",
+    "filename": "2024-05-09T15-00-01.509Z.svg",
+    "percentage": 0.1814
+  },
+  {
+    "timestamp": "2024-05-09T15:15:02Z",
+    "filename": "2024-05-09T15-15-02.367Z.svg",
+    "percentage": 0.1914
+  },
+  {
+    "timestamp": "2024-05-09T15:30:02Z",
+    "filename": "2024-05-09T15-30-02.319Z.svg",
+    "percentage": 0.1877
+  },
+  {
+    "timestamp": "2024-05-09T15:45:02Z",
+    "filename": "2024-05-09T15-45-02.160Z.svg",
+    "percentage": 0.1909
+  },
+  {
+    "timestamp": "2024-05-09T16:00:02Z",
+    "filename": "2024-05-09T16-00-02.434Z.svg",
+    "percentage": 0.1862
+  },
+  {
+    "timestamp": "2024-05-09T16:15:01Z",
+    "filename": "2024-05-09T16-15-01.807Z.svg",
+    "percentage": 0.1863
+  },
+  {
+    "timestamp": "2024-05-09T16:30:02Z",
+    "filename": "2024-05-09T16-30-02.361Z.svg",
+    "percentage": 0.1771
+  },
+  {
+    "timestamp": "2024-05-09T16:45:02Z",
+    "filename": "2024-05-09T16-45-02.336Z.svg",
+    "percentage": 0.1543
+  },
+  {
+    "timestamp": "2024-05-09T17:00:01Z",
+    "filename": "2024-05-09T17-00-01.579Z.svg",
+    "percentage": 0.1411
+  },
+  {
+    "timestamp": "2024-05-09T17:15:02Z",
+    "filename": "2024-05-09T17-15-02.232Z.svg",
+    "percentage": 0.1021
+  },
+  {
+    "timestamp": "2024-05-09T17:30:01Z",
+    "filename": "2024-05-09T17-30-01.652Z.svg",
+    "percentage": 0.1031
+  },
+  {
+    "timestamp": "2024-05-09T17:45:01Z",
+    "filename": "2024-05-09T17-45-01.545Z.svg",
+    "percentage": 0.0934
+  },
+  {
+    "timestamp": "2024-05-09T18:00:02Z",
+    "filename": "2024-05-09T18-00-02.338Z.svg",
+    "percentage": 0.0838
+  },
+  {
+    "timestamp": "2024-05-09T18:15:01Z",
+    "filename": "2024-05-09T18-15-01.633Z.svg",
+    "percentage": 0.0744
+  },
+  {
+    "timestamp": "2024-05-09T18:30:01Z",
+    "filename": "2024-05-09T18-30-01.922Z.svg",
+    "percentage": 0.0674
+  },
+  {
+    "timestamp": "2024-05-09T18:45:01Z",
+    "filename": "2024-05-09T18-45-01.422Z.svg",
+    "percentage": 0.0634
+  },
+  {
+    "timestamp": "2024-05-09T19:00:01Z",
+    "filename": "2024-05-09T19-00-01.916Z.svg",
+    "percentage": 0.0541
+  },
+  {
+    "timestamp": "2024-05-09T19:15:01Z",
+    "filename": "2024-05-09T19-15-01.592Z.svg",
+    "percentage": 0.0548
+  },
+  {
+    "timestamp": "2024-05-09T19:30:01Z",
+    "filename": "2024-05-09T19-30-01.817Z.svg",
+    "percentage": 0.0491
+  },
+  {
+    "timestamp": "2024-05-09T19:45:01Z",
+    "filename": "2024-05-09T19-45-01.965Z.svg",
+    "percentage": 0.0426
+  },
+  {
+    "timestamp": "2024-05-09T20:00:01Z",
+    "filename": "2024-05-09T20-00-01.989Z.svg",
+    "percentage": 0.0403
+  },
+  {
+    "timestamp": "2024-05-09T20:15:01Z",
+    "filename": "2024-05-09T20-15-01.569Z.svg",
+    "percentage": 0.0357
+  },
+  {
+    "timestamp": "2024-05-09T20:30:01Z",
+    "filename": "2024-05-09T20-30-01.677Z.svg",
+    "percentage": 0.0374
+  },
+  {
+    "timestamp": "2024-05-09T20:45:02Z",
+    "filename": "2024-05-09T20-45-02.165Z.svg",
+    "percentage": 0.0354
+  },
+  {
+    "timestamp": "2024-05-09T21:00:01Z",
+    "filename": "2024-05-09T21-00-01.724Z.svg",
+    "percentage": 0.0334
+  },
+  {
+    "timestamp": "2024-05-09T21:15:01Z",
+    "filename": "2024-05-09T21-15-01.400Z.svg",
+    "percentage": 0.0281
+  },
+  {
+    "timestamp": "2024-05-09T21:30:01Z",
+    "filename": "2024-05-09T21-30-01.882Z.svg",
+    "percentage": 0.0303
+  },
+  {
+    "timestamp": "2024-05-09T21:45:01Z",
+    "filename": "2024-05-09T21-45-01.913Z.svg",
+    "percentage": 0.0308
+  },
+  {
+    "timestamp": "2024-05-09T22:00:01Z",
+    "filename": "2024-05-09T22-00-01.874Z.svg",
+    "percentage": 0.0284
+  },
+  {
+    "timestamp": "2024-05-09T22:15:01Z",
+    "filename": "2024-05-09T22-15-01.907Z.svg",
+    "percentage": 0.0226
+  },
+  {
+    "timestamp": "2024-05-09T22:30:01Z",
+    "filename": "2024-05-09T22-30-01.489Z.svg",
+    "percentage": 0.0245
+  },
+  {
+    "timestamp": "2024-05-09T22:45:01Z",
+    "filename": "2024-05-09T22-45-01.397Z.svg",
+    "percentage": 0.0228
+  },
+  {
+    "timestamp": "2024-05-09T23:00:01Z",
+    "filename": "2024-05-09T23-00-01.700Z.svg",
+    "percentage": 0.0217
+  },
+  {
+    "timestamp": "2024-05-09T23:15:01Z",
+    "filename": "2024-05-09T23-15-01.610Z.svg",
+    "percentage": 0.0206
+  },
+  {
+    "timestamp": "2024-05-09T23:30:02Z",
+    "filename": "2024-05-09T23-30-02.451Z.svg",
+    "percentage": 0.0197
+  },
+  {
+    "timestamp": "2024-05-09T23:45:02Z",
+    "filename": "2024-05-09T23-45-02.090Z.svg",
+    "percentage": 0.0196
+  },
+  {
+    "timestamp": "2024-05-10T00:00:01Z",
+    "filename": "2024-05-10T00-00-01.434Z.svg",
+    "percentage": 0.0166
+  },
+  {
+    "timestamp": "2024-05-10T00:15:01Z",
+    "filename": "2024-05-10T00-15-01.962Z.svg",
+    "percentage": 0.017
+  },
+  {
+    "timestamp": "2024-05-10T00:30:02Z",
+    "filename": "2024-05-10T00-30-02.380Z.svg",
+    "percentage": 0.0138
+  },
+  {
+    "timestamp": "2024-05-10T00:45:02Z",
+    "filename": "2024-05-10T00-45-02.311Z.svg",
+    "percentage": 0.011
+  },
+  {
+    "timestamp": "2024-05-10T01:00:01Z",
+    "filename": "2024-05-10T01-00-01.791Z.svg",
+    "percentage": 0.0117
+  },
+  {
+    "timestamp": "2024-05-10T01:15:02Z",
+    "filename": "2024-05-10T01-15-02.349Z.svg",
+    "percentage": 0.0123
+  },
+  {
+    "timestamp": "2024-05-10T01:30:02Z",
+    "filename": "2024-05-10T01-30-02.314Z.svg",
+    "percentage": 0.0115
+  },
+  {
+    "timestamp": "2024-05-10T01:45:01Z",
+    "filename": "2024-05-10T01-45-01.931Z.svg",
+    "percentage": 0.0111
+  },
+  {
+    "timestamp": "2024-05-10T02:00:02Z",
+    "filename": "2024-05-10T02-00-02.011Z.svg",
+    "percentage": 0.0121
+  },
+  {
+    "timestamp": "2024-05-10T02:15:01Z",
+    "filename": "2024-05-10T02-15-01.876Z.svg",
+    "percentage": 0.011
+  },
+  {
+    "timestamp": "2024-05-10T02:30:01Z",
+    "filename": "2024-05-10T02-30-01.775Z.svg",
+    "percentage": 0.0096
+  },
+  {
+    "timestamp": "2024-05-10T02:45:02Z",
+    "filename": "2024-05-10T02-45-02.245Z.svg",
+    "percentage": 0.0109
+  },
+  {
+    "timestamp": "2024-05-10T03:00:02Z",
+    "filename": "2024-05-10T03-00-02.240Z.svg",
+    "percentage": 0.0132
+  },
+  {
+    "timestamp": "2024-05-10T03:15:01Z",
+    "filename": "2024-05-10T03-15-01.426Z.svg",
+    "percentage": 0.013
+  },
+  {
+    "timestamp": "2024-05-10T03:30:02Z",
+    "filename": "2024-05-10T03-30-02.051Z.svg",
+    "percentage": 0.012
+  },
+  {
+    "timestamp": "2024-05-10T03:45:02Z",
+    "filename": "2024-05-10T03-45-02.298Z.svg",
+    "percentage": 0.0141
+  },
+  {
+    "timestamp": "2024-05-10T04:00:02Z",
+    "filename": "2024-05-10T04-00-02.347Z.svg",
+    "percentage": 0.0175
+  },
+  {
+    "timestamp": "2024-05-10T04:15:01Z",
+    "filename": "2024-05-10T04-15-01.885Z.svg",
+    "percentage": 0.0175
+  },
+  {
+    "timestamp": "2024-05-10T04:30:01Z",
+    "filename": "2024-05-10T04-30-01.689Z.svg",
+    "percentage": 0.0177
+  },
+  {
+    "timestamp": "2024-05-10T04:45:02Z",
+    "filename": "2024-05-10T04-45-02.117Z.svg",
+    "percentage": 0.0229
+  },
+  {
+    "timestamp": "2024-05-10T05:00:01Z",
+    "filename": "2024-05-10T05-00-01.866Z.svg",
+    "percentage": 0.0196
+  },
+  {
+    "timestamp": "2024-05-10T05:15:02Z",
+    "filename": "2024-05-10T05-15-02.081Z.svg",
+    "percentage": 0.0248
+  },
+  {
+    "timestamp": "2024-05-10T05:30:01Z",
+    "filename": "2024-05-10T05-30-01.338Z.svg",
+    "percentage": 0.0273
+  },
+  {
+    "timestamp": "2024-05-10T05:45:01Z",
+    "filename": "2024-05-10T05-45-01.843Z.svg",
+    "percentage": 0.0274
+  },
+  {
+    "timestamp": "2024-05-10T06:00:02Z",
+    "filename": "2024-05-10T06-00-02.379Z.svg",
+    "percentage": 0.0277
+  },
+  {
+    "timestamp": "2024-05-10T06:15:01Z",
+    "filename": "2024-05-10T06-15-01.637Z.svg",
+    "percentage": 0.0292
+  },
+  {
+    "timestamp": "2024-05-10T06:30:02Z",
+    "filename": "2024-05-10T06-30-02.175Z.svg",
+    "percentage": 0.0297
+  },
+  {
+    "timestamp": "2024-05-10T06:45:02Z",
+    "filename": "2024-05-10T06-45-02.291Z.svg",
+    "percentage": 0.0311
+  },
+  {
+    "timestamp": "2024-05-10T07:00:01Z",
+    "filename": "2024-05-10T07-00-01.633Z.svg",
+    "percentage": 0.0362
+  },
+  {
+    "timestamp": "2024-05-10T07:15:02Z",
+    "filename": "2024-05-10T07-15-02.252Z.svg",
+    "percentage": 0.0349
+  },
+  {
+    "timestamp": "2024-05-10T07:30:01Z",
+    "filename": "2024-05-10T07-30-01.952Z.svg",
+    "percentage": 0.0416
+  },
+  {
+    "timestamp": "2024-05-10T07:45:02Z",
+    "filename": "2024-05-10T07-45-02.262Z.svg",
+    "percentage": 0.0499
+  },
+  {
+    "timestamp": "2024-05-10T08:00:02Z",
+    "filename": "2024-05-10T08-00-02.094Z.svg",
+    "percentage": 0.0481
+  },
+  {
+    "timestamp": "2024-05-10T08:15:02Z",
+    "filename": "2024-05-10T08-15-02.356Z.svg",
+    "percentage": 0.0557
+  },
+  {
+    "timestamp": "2024-05-10T08:30:01Z",
+    "filename": "2024-05-10T08-30-01.819Z.svg",
+    "percentage": 0.0575
+  },
+  {
+    "timestamp": "2024-05-10T08:45:01Z",
+    "filename": "2024-05-10T08-45-01.870Z.svg",
+    "percentage": 0.0594
+  },
+  {
+    "timestamp": "2024-05-10T09:00:02Z",
+    "filename": "2024-05-10T09-00-02.104Z.svg",
+    "percentage": 0.0657
+  },
+  {
+    "timestamp": "2024-05-10T09:15:02Z",
+    "filename": "2024-05-10T09-15-02.017Z.svg",
+    "percentage": 0.0702
+  },
+  {
+    "timestamp": "2024-05-10T09:30:01Z",
+    "filename": "2024-05-10T09-30-01.742Z.svg",
+    "percentage": 0.0788
+  },
+  {
+    "timestamp": "2024-05-10T09:45:01Z",
+    "filename": "2024-05-10T09-45-01.687Z.svg",
+    "percentage": 0.0849
+  },
+  {
+    "timestamp": "2024-05-10T10:00:01Z",
+    "filename": "2024-05-10T10-00-01.592Z.svg",
+    "percentage": 0.0854
+  }
 ]
