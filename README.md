@@ -87,6 +87,7 @@ cp -r final_images/svgs/ /path/to/traffic-flood-ui/public/
 -   Move python files to data processing directory and change them to still work
 -   create image processing directory and move scripts there
 -   create directory for json including intermediate formats
+-   Add licence
 
 # TODO later
 
