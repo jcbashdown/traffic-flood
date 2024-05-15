@@ -2,6 +2,8 @@ import { GoogleMap, LoadScript, TrafficLayer } from '@react-google-maps/api'
 import getCentralLatLongsForGridOfFour from '../lib/get-central-lat-longs-for-grid-of-four'
 
 const MapGrid = () => {
+    //get api key from the env
+    const API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY
     const mapCenters = getCentralLatLongsForGridOfFour({ lat: -1.292105389694844, lng: 36.82089822660569 })
     //[
     //{ lat: -1.240786409142414, lng: 36.76733656834888 },
@@ -109,7 +111,7 @@ const MapGrid = () => {
 
     return (
         <>
-            <LoadScript googleMapsApiKey="">
+            <LoadScript googleMapsApiKey={API_KEY}>
                 <div className="map-grid">
                     {mapCenters.map((mapCenter, index) => (
                         <GoogleMap

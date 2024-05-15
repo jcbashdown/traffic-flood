@@ -1,6 +1,8 @@
 import { GoogleMap, LoadScript, TrafficLayer } from '@react-google-maps/api'
 
 const Map = ({ centre }) => {
+    //get api key from the env
+    const API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY
     //const mapStyles = [
     //{
     //featureType: 'all',
@@ -79,7 +81,7 @@ const Map = ({ centre }) => {
 
     return (
         <>
-            <LoadScript googleMapsApiKey="">
+            <LoadScript googleMapsApiKey={API_KEY}>
                 <GoogleMap
                     mapContainerStyle={mapContainerStyle}
                     center={centre}
