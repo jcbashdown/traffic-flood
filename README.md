@@ -45,7 +45,7 @@ Once you have the latest images
 1. Adjust the dates in `get_hourly_precip_mm.py` based on the range of traffic data you have gathered and get the rain. Note - this will give you forecast data if you set a date in the future:
 
 ```
-python get_hourly_precip_mm.py > hourly_precip_mm.json
+python get_hourly_precip_mm.py <2024-05-10> <2024-05-15> hourly_precip_mm.json
 ```
 
 2. Process the images to get traffic svgs and pngs:
@@ -57,7 +57,7 @@ python get_hourly_precip_mm.py > hourly_precip_mm.json
 3. Get the traffic (note, this is very slow):
 
 ```
-python ./calculate_traffic_percentages_from_png.py > traffic_history_full.json
+python ./calculate_traffic_percentages_from_png.py traffic_history_full.json
 ```
 
 4. Combine the data into the file in the ui repo:
@@ -81,21 +81,18 @@ cp -r final_images/svgs/ /path/to/traffic-flood-ui/public/
 # TODO
 
 -   Work out if precip is accumulation up to hour, 30 mins either side? after? May have to work this our from traffic effects
--   Enable partial updates of traffic and weather
 
 # TODO tidying
 
 -   Move python files to data processing directory and change them to still work
 -   create image processing directory and move scripts there
 -   create directory for json including intermediate formats
--   remove weather api key from git history
--   use .env for api keys
--   use .env for location of weather and traffic images
 
 # TODO later
 
 -   traffic as percentage of roads - stiched but not filtered has green to calc 100%
 -   dockerize
+-   use .env for location of weather and traffic images
 
 # Notes
 
