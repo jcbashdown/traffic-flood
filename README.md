@@ -80,11 +80,7 @@ cp -r final_images/svgs/ /path/to/traffic-flood-ui/public/
 
 # TODO
 
--   Script to combine weather with traffic with image names array to json
-    -   Test drive. Work out if precip is accumulation before. Assign less frequent to more frequent.
-        -   Find every unique timestamp. Assign traffic and image path and then most recent previous rain
--   better/more faded background map image
--   UI (probably separate repo)
+-   Work out if precip is accumulation up to hour, 30 mins either side? after? May have to work this our from traffic effects
 -   Enable partial updates of traffic and weather
 
 # TODO tidying
@@ -98,7 +94,7 @@ cp -r final_images/svgs/ /path/to/traffic-flood-ui/public/
 
 # TODO later
 
--   traffic as percentage of roads - stiched but not filtered has green
+-   traffic as percentage of roads - stiched but not filtered has green to calc 100%
 -   dockerize
 
 # Notes
