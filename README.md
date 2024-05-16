@@ -31,7 +31,7 @@ The motivation was to better understand some of the impacts of the heavy rains i
 
 # Requirements
 
--   Imagemagick, potrace, hugin for the smartstitch (though this doesn't currently work well)
+-   Imagemagick, potrace, hugin for the smart stitch (though this doesn't currently work well)
 -   Playwright, playwright dependencies - `npx playwright install-deps && npx playwright install`
 -   Node > 18.something
 -   tmux to run in the background
