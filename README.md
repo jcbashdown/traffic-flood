@@ -23,7 +23,7 @@ The motivation was to better understand some of the impacts of the heavy rains i
 -   Combine weather data with traffic.
     -   Examples of the the final output are in the `final_images/svgs` directory and in `final_json/combined_data.json`
 
-## In a separate repo
+## In [the ui repo](https://github.com/jcbashdown/traffic-flood-ui)
 
 -   Create a simple UI to display the data
     -   One sparkline for rainfall and another for traffic with a slider to move through time
@@ -126,8 +126,4 @@ cp -r final_images/svgs/ /path/to/traffic-flood-ui/public/
 
 # Notes
 
--   I've confirmed the api is giving rain in mm
-
-```
-
-```
+-   I've confirmed the weather api is giving rain in mm and timestamps in local time which I'm converting to UTC
