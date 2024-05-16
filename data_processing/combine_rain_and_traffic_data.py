@@ -96,4 +96,5 @@ precipitation = get_json_data(precipitation_json)
 traffic = get_json_data(traffic_json)
 combined_data = combine_data(precipitation=precipitation, traffic=traffic)
 
+# You can redirect this output to the desired file
 print(json.dumps(combined_data, indent=4))

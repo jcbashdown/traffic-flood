@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# NOTE: This script was a test and isn't intended to be used
+
 # Ensure Hugin and ImageMagick are installed
 if ! command -v pto_gen &> /dev/null
 then
