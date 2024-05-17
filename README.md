@@ -1,6 +1,6 @@
 # Description
 
-This app is intended to gather data to determine the impact of heavy rains on mobility in a given city (currently Nairobi).
+This app is intended to gather data to determine the impact of heavy rains on mobility in a given city (currently Nairobi). Rains largely stopped just as I started gathering data so it's not as useful as hoped yet.
 
 The motivation was to better understand some of the impacts of the heavy rains in Nairobi in April-Early May 2024 using a much simpler approach than traditional flood risk mapping (where we would combine topographic, hydrological, remote sensing etc. data to understand flood risk.) by using a potential proxy. While traffic data may not be an ideal proxy it's much quicker and cheaper to implement using easily accessible data though there are obvious downsides:
 
@@ -10,7 +10,7 @@ The motivation was to better understand some of the impacts of the heavy rains i
 # Approach
 
 -   Gather traffic data from the API
-    -   Use a local next app with rendering a map with a traffic overlay and the background map hidden
+    -   Use a local next app to render a map with a traffic overlay only (with the background map hidden)
     -   Take screenshots with playwright.
     -   In large areas it's necessary to take multiple screenshots at a good zoom level and stitch them together as the map loads unreliably if you make the map area too large.
 -   Filter the images to only the worse traffic (ignoring green and orange)
