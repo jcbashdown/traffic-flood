@@ -113,10 +113,6 @@ cp -r final_images/svgs/ /path/to/traffic-flood-ui/public/
 
 -   Work out if precip is accumulation up to hour, 30 mins either side? after? May have to work this our from traffic effects
 
-# TODO tidying
-
--   Add licence
-
 # TODO later
 
 -   traffic as percentage of roads - stiched but not filtered has green to calc 100%
