@@ -79,16 +79,16 @@ Once you have the latest images
 python get_hourly_precip_mm.py <2024-05-10> <2024-05-15> hourly_precip_mm.json
 ```
 
-2. Process the images to get traffic svgs and pngs:
+2. Process the images to get traffic svgs and pngs from the project route:
 
 ```
-./create-all-traffic-svgs.sh
+./image_processing/create-all-traffic-svgs.sh
 ```
 
 3. Get the traffic (note, this is very slow):
 
 ```
-python ./calculate_traffic_percentages_from_png.py traffic_history_full.json
+python ./data_processing/calculate_traffic_percentages_from_png.py output_json/traffic_history_full.json
 ```
 
 4. Combine the data into the file in the ui repo:

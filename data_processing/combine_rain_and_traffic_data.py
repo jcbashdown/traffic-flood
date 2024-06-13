@@ -89,8 +89,8 @@ def get_json_data(json_file):
     return data
 
 # Load the precipitation and traffic data
-precipitation_json = "hourly_precip_mm.json"
-traffic_json = "traffic_history_full.json"
+precipitation_json = "output_json/hourly_precip_mm.json"
+traffic_json = "output_json/traffic_history_full.json"
 
 precipitation = get_json_data(precipitation_json)
 traffic = get_json_data(traffic_json)

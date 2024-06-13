@@ -20,7 +20,7 @@ for DIR in "$BASE_DIR"/*; do
         fi
         
         # Run the stitching script
-        ./stitch-images.sh "$DIR"
+        ./image_processing/stitch-images.sh "$DIR"
         
         # Get the stitched map file
         STITCHED_MAP="$DIR/stitched_map.png"
@@ -30,7 +30,7 @@ for DIR in "$BASE_DIR"/*; do
             echo "Stitched map found: $STITCHED_MAP"
             
             # Run the SVG processing script
-            ./filter-image.sh "$STITCHED_MAP"
+            ./image_processing/filter-image.sh "$STITCHED_MAP"
             
             # Get the SVG output file
             SVG_OUTPUT="${STITCHED_MAP%.*}-filtered.svg"
